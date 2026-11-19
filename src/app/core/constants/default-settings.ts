@@ -11,7 +11,6 @@ export const DEFAULT_SETTINGS: ISettings = {
     careersEmail: 'info@averaelite.com',
     phones: [
       { id: 'eg-1', region: 'EG', display: '+20 127 320 2558' },
-      { id: 'eg-2', region: 'EG', display: '+20 122 863 0002' },
       { id: 'ksa', region: 'SA', display: '+966 56 906 5465' },
     ],
     whatsapp: null,

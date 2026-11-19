@@ -16,7 +16,7 @@
     </div>
   </div>
   <div class="hero__media">
-    <app-photo name="leadership-meeting-hero" [alt]="h.heroImageAlt" [priority]="true" sizes="(min-width: 1000px) 60vw, 100vw" position="78% 40%" />
+    <app-photo name="home-hero" [alt]="h.heroImageAlt" [priority]="true" sizes="(min-width: 1000px) 60vw, 100vw" position="center" />
   </div>
 </section>
 
@@ -84,7 +84,7 @@
   <div class="container split split--media">
     <div class="split__media">
       @defer (on viewport) {
-        <app-photo name="team-collaboration" [alt]="h.marketsImageAlt" sizes="(min-width: 1000px) 46vw, 100vw" position="45% 40%" />
+        <app-photo name="home-markets" [alt]="h.marketsImageAlt" sizes="(min-width: 1000px) 46vw, 100vw" position="center" />
       } @placeholder {
         <div class="h-full w-full bg-ivory-2"></div>
       }
@@ -115,7 +115,7 @@
     <div class="split split--media split--reverse">
       <div class="split__media split__media--tall">
         @defer (on viewport) {
-          <app-photo name="payroll-advisory" [alt]="h.trustImageAlt" sizes="(min-width: 1000px) 42vw, 100vw" position="55% 35%" />
+          <app-photo name="home-trust-and-compliance" [alt]="h.trustImageAlt" sizes="(min-width: 1000px) 42vw, 100vw" position="center" />
         } @placeholder {
           <div class="h-full w-full bg-ivory-2"></div>
         }

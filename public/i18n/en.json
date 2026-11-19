@@ -233,9 +233,9 @@
       "h1": "Hire and manage employees in Egypt, without a local entity.",
       "promise": "We become the legal employer. You direct the work; we carry the contracts, payroll, insurance, tax and compliance.",
       "image": {
-        "key": "recruitment-consultation",
+        "key": "services-employer-of-record",
         "alt": "Illustrative recruitment discussion",
-        "position": "55% 40%"
+        "position": "center"
       },
       "includedTitle": "Everything an employer in Egypt is responsible for",
       "included": [
@@ -373,9 +373,9 @@
       "h1": "Payroll that is right, on time, every month.",
       "promise": "An automated, cloud-based and confidential payroll process, run in line with Egyptian law.",
       "image": {
-        "key": "payroll-advisory",
+        "key": "services-payroll",
         "alt": "Illustrative payroll advisory meeting",
-        "position": "50% 35%"
+        "position": "center"
       },
       "includedTitle": "End-to-end payroll",
       "included": [
@@ -448,9 +448,9 @@
       "h1": "Statutory social insurance, handled completely.",
       "promise": "We manage your employees’ insurance files from registration to closure, and keep them aligned with the law as it changes.",
       "image": {
-        "key": "payroll-advisory",
+        "key": "services-social-insurance",
         "alt": "Illustrative payroll and social insurance advisory meeting",
-        "position": "70% 35%"
+        "position": "center"
       },
       "includedTitle": "What we manage",
       "included": [
@@ -556,9 +556,9 @@
       "h1": "The right people, found discreetly.",
       "promise": "Advanced sourcing tools, and a team with experience and a regional network spanning 25 years, to find professionals who fit your culture.",
       "image": {
-        "key": "recruitment-consultation",
+        "key": "services-talent-acquisition",
         "alt": "Illustrative recruitment discussion",
-        "position": "60% 40%"
+        "position": "center"
       },
       "includedTitle": "Three ways we hire",
       "included": [

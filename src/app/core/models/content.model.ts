@@ -19,7 +19,19 @@ export type ImageKey =
   | 'recruitment-consultation'
   | 'payroll-advisory'
   | 'workspace-editorial'
-  | 'architecture-hero';
+  | 'architecture-hero'
+  | 'about'
+  | 'home-hero'
+  | 'home-markets'
+  | 'home-trust-and-compliance'
+  | 'markets'
+  | 'services-employer-of-record'
+  | 'services-payroll'
+  | 'services-social-insurance'
+  | 'services-talent-acquisition'
+  | 'services-workspace'
+  | 'services-page-workspace'
+  | 'trust-and-compliance';
 
 /** A business statement that may only be published once a config confirmation is set. */
 export type Confirmation = 'ipAssignmentAndNda' | 'encryptedArchive' | 'packageInclusions';

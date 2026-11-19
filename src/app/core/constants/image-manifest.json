@@ -1,4 +1,14 @@
 {
+  "about": {
+    "width": 2560,
+    "height": 1440,
+    "widths": [
+      480,
+      800,
+      1200,
+      1536
+    ]
+  },
   "architecture-hero": {
     "width": 1672,
     "height": 941,
@@ -9,9 +19,47 @@
       1536
     ]
   },
+  "home-hero": {
+    "width": 2560,
+    "height": 1440,
+    "widths": [
+      480,
+      800,
+      1200,
+      1536
+    ]
+  },
+  "home-markets": {
+    "width": 1080,
+    "height": 1350,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "home-trust-and-compliance": {
+    "width": 2560,
+    "height": 1440,
+    "widths": [
+      480,
+      800,
+      1200,
+      1536
+    ]
+  },
   "leadership-meeting-hero": {
     "width": 1672,
     "height": 941,
+    "widths": [
+      480,
+      800,
+      1200,
+      1536
+    ]
+  },
+  "markets": {
+    "width": 1600,
+    "height": 899,
     "widths": [
       480,
       800,
@@ -39,6 +87,65 @@
       1536
     ]
   },
+  "services-employer-of-record": {
+    "width": 2560,
+    "height": 1440,
+    "widths": [
+      480,
+      800,
+      1200,
+      1536
+    ]
+  },
+  "services-page-workspace": {
+    "width": 2560,
+    "height": 1440,
+    "widths": [
+      480,
+      800,
+      1200,
+      1536
+    ]
+  },
+  "services-payroll": {
+    "width": 2560,
+    "height": 1440,
+    "widths": [
+      480,
+      800,
+      1200,
+      1536
+    ]
+  },
+  "services-social-insurance": {
+    "width": 1344,
+    "height": 756,
+    "widths": [
+      480,
+      800,
+      1200
+    ]
+  },
+  "services-talent-acquisition": {
+    "width": 2560,
+    "height": 1440,
+    "widths": [
+      480,
+      800,
+      1200,
+      1536
+    ]
+  },
+  "services-workspace": {
+    "width": 2560,
+    "height": 1440,
+    "widths": [
+      480,
+      800,
+      1200,
+      1536
+    ]
+  },
   "team-collaboration": {
     "width": 1536,
     "height": 1024,
@@ -49,9 +156,19 @@
       1536
     ]
   },
+  "trust-and-compliance": {
+    "width": 2560,
+    "height": 1440,
+    "widths": [
+      480,
+      800,
+      1200,
+      1536
+    ]
+  },
   "workspace-editorial": {
-    "width": 1536,
-    "height": 1024,
+    "width": 2560,
+    "height": 1440,
     "widths": [
       480,
       800,
