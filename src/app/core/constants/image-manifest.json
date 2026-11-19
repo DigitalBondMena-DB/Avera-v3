@@ -7,7 +7,8 @@
       800,
       1200,
       1600
-    ]
+    ],
+    "hash": "6a564b26"
   },
   "architecture-hero": {
     "width": 1672,
@@ -18,7 +19,8 @@
       1200,
       1600,
       1672
-    ]
+    ],
+    "hash": "ca0a7f76"
   },
   "careers": {
     "width": 1200,
@@ -27,7 +29,8 @@
       480,
       800,
       1200
-    ]
+    ],
+    "hash": "e7134c9d"
   },
   "home-hero": {
     "width": 2560,
@@ -39,7 +42,8 @@
       1600,
       1920,
       2560
-    ]
+    ],
+    "hash": "a393e9b0"
   },
   "home-markets": {
     "width": 1080,
@@ -48,7 +52,8 @@
       480,
       800,
       1080
-    ]
+    ],
+    "hash": "1a9de71d"
   },
   "home-trust-and-compliance": {
     "width": 2560,
@@ -60,7 +65,8 @@
       1600,
       1920,
       2560
-    ]
+    ],
+    "hash": "0f2ff77d"
   },
   "leadership-meeting-hero": {
     "width": 1672,
@@ -71,7 +77,8 @@
       1200,
       1600,
       1672
-    ]
+    ],
+    "hash": "94217ce8"
   },
   "markets": {
     "width": 1600,
@@ -81,7 +88,8 @@
       800,
       1200,
       1600
-    ]
+    ],
+    "hash": "852585e8"
   },
   "payroll-advisory": {
     "width": 1536,
@@ -91,7 +99,8 @@
       800,
       1200,
       1536
-    ]
+    ],
+    "hash": "22ffa9a5"
   },
   "recruitment-consultation": {
     "width": 1536,
@@ -101,7 +110,8 @@
       800,
       1200,
       1536
-    ]
+    ],
+    "hash": "1aeac5c7"
   },
   "services-employer-of-record": {
     "width": 2560,
@@ -113,7 +123,8 @@
       1600,
       1920,
       2560
-    ]
+    ],
+    "hash": "675c0250"
   },
   "services-page-workspace": {
     "width": 2560,
@@ -125,7 +136,8 @@
       1600,
       1920,
       2560
-    ]
+    ],
+    "hash": "d8d32d80"
   },
   "services-payroll": {
     "width": 2560,
@@ -137,7 +149,8 @@
       1600,
       1920,
       2560
-    ]
+    ],
+    "hash": "c969534a"
   },
   "services-social-insurance": {
     "width": 1344,
@@ -147,7 +160,8 @@
       800,
       1200,
       1344
-    ]
+    ],
+    "hash": "f4d951ac"
   },
   "services-talent-acquisition": {
     "width": 2560,
@@ -159,7 +173,8 @@
       1600,
       1920,
       2560
-    ]
+    ],
+    "hash": "75a7bd38"
   },
   "services-workspace": {
     "width": 2560,
@@ -171,7 +186,8 @@
       1600,
       1920,
       2560
-    ]
+    ],
+    "hash": "a3b20aab"
   },
   "team-collaboration": {
     "width": 1536,
@@ -181,7 +197,8 @@
       800,
       1200,
       1536
-    ]
+    ],
+    "hash": "cc59edaa"
   },
   "trust-and-compliance": {
     "width": 2560,
@@ -193,7 +210,8 @@
       1600,
       1920,
       2560
-    ]
+    ],
+    "hash": "0f2ff77d"
   },
   "workspace-editorial": {
     "width": 2560,
@@ -205,6 +223,7 @@
       1600,
       1920,
       2560
-    ]
+    ],
+    "hash": "a3b20aab"
   }
 }

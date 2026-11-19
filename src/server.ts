@@ -66,9 +66,9 @@ app.get('/sitemap.xml', async (_req, res) => {
   res.send(`<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">${entries}\n</urlset>\n`);
 });
 
-// Hashed build assets: cache for a year. Translations and images: shorter, they are not content-hashed.
+// Hashed build assets and fingerprinted images: cache for 1 year. Translations: shorter (10m).
 app.use('/i18n', express.static(join(browserDistFolder, 'i18n'), { maxAge: '10m' }));
-app.use('/images', express.static(join(browserDistFolder, 'images'), { maxAge: '30d' }));
+app.use('/images', express.static(join(browserDistFolder, 'images'), { maxAge: '1y', immutable: true }));
 app.use(express.static(browserDistFolder, { maxAge: '1y', immutable: true, index: false, redirect: false }));
 
 app.use((req, res, next) => {
