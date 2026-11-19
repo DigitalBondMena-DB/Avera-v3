@@ -82,7 +82,7 @@
 <!-- 5. Markets: editorial split with team photograph (lazy, deferred below the fold) -->
 <section class="section" aria-labelledby="markets-title">
   <div class="container split split--media">
-    <div class="split__media">
+    <div class="split__media split__media--tall">
       @defer (on viewport) {
         <app-photo name="home-markets" [alt]="h.marketsImageAlt" sizes="(min-width: 1000px) 46vw, 100vw" position="center" />
       } @placeholder {
@@ -113,7 +113,7 @@
 <section class="section section--ivory" aria-labelledby="trust-title">
   <div class="container">
     <div class="split split--media split--reverse">
-      <div class="split__media split__media--tall">
+      <div class="split__media">
         @defer (on viewport) {
           <app-photo name="home-trust-and-compliance" [alt]="h.trustImageAlt" sizes="(min-width: 1000px) 42vw, 100vw" position="center" />
         } @placeholder {

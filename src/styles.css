@@ -408,7 +408,7 @@ html[lang='ar'] .page-hero__title { font-size: clamp(1.9rem, 1.25rem + 2vw, 2.75
 .media-hero__text { padding-top: 16px; }
 @media (min-width: 1000px) {
   .media-hero__inner { grid-template-columns: minmax(0, 6fr) minmax(0, 6fr); gap: 72px; }
-  .media-hero__media { aspect-ratio: 5 / 4; }
+  .media-hero__media { aspect-ratio: 16 / 10; }
 }
 
 .market-facts { display: grid; gap: 0; margin: 48px 0 0; }
