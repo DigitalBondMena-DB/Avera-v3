@@ -22,6 +22,15 @@
       1672
     ]
   },
+  "careers": {
+    "width": 1200,
+    "height": 896,
+    "widths": [
+      480,
+      800,
+      1200
+    ]
+  },
   "home-hero": {
     "width": 2560,
     "height": 1440,

@@ -21,6 +21,7 @@ export type ImageKey =
   | 'workspace-editorial'
   | 'architecture-hero'
   | 'about'
+  | 'careers'
   | 'home-hero'
   | 'home-markets'
   | 'home-trust-and-compliance'
