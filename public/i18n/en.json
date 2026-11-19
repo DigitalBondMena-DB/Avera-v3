@@ -1,0 +1,2862 @@
+{
+  "locale": "en",
+  "dir": "ltr",
+  "langName": "English",
+  "otherLangName": "العربية",
+  "siteName": "AVERA Elite Business Solutions",
+  "tagline": "Your team in Egypt. Our responsibility.",
+  "common": {
+    "getProposal": "Get your proposal",
+    "bookConsultation": "Book a consultation",
+    "sendRequest": "Send request",
+    "learnMore": "Learn more",
+    "allServices": "All services",
+    "skipToContent": "Skip to content",
+    "menu": "Menu",
+    "closeMenu": "Close menu",
+    "close": "Close",
+    "home": "Home",
+    "breadcrumb": "Breadcrumb",
+    "switchLanguage": "Read this page in Arabic",
+    "illustrative": "Illustrative image",
+    "draftBanner": "Draft preview — this page is not published and is hidden from navigation and search engines.",
+    "draftLabel": "Draft",
+    "relatedServices": "Related services",
+    "faqTitle": "Questions clients ask",
+    "onThisPage": "On this page",
+    "call": "Call",
+    "whatsapp": "WhatsApp",
+    "whatsappText": "Hello AVERA, I would like to know more about hiring in Egypt.",
+    "email": "Email",
+    "egypt": "Egypt",
+    "ksa": "Saudi Arabia",
+    "office": "Office",
+    "directLines": "Direct lines",
+    "notSure": "Not sure where to start?",
+    "notSureText": "Tell us about the team you want to build. We will recommend the services that fit, and nothing more.",
+    "responseNeutral": "One of our advisors will review your request and contact you.",
+    "responseSla": "One of our advisors will reply within one working day.",
+    "generalInfo": "This page gives general information, not legal advice. Laws and rates change; the rules that apply to your team are confirmed in your proposal."
+  },
+  "nav": {
+    "utilityAudience": "For Gulf and international companies building teams in Egypt",
+    "trust": "Trust & compliance",
+    "careers": "Careers",
+    "services": "Services",
+    "markets": "Markets",
+    "industries": "Industries",
+    "pricing": "Pricing",
+    "about": "About",
+    "aboutAvera": "About AVERA",
+    "blog": "Blog",
+    "insights": "Insights",
+    "howItWorks": "How it works",
+    "whyEgypt": "Why Egypt",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "leadership": "Leadership",
+    "clients": "Our clients",
+    "groups": {
+      "employ": "Employ & pay",
+      "talent": "Talent & people",
+      "workplace": "Workplace"
+    },
+    "gulfCompanies": "Gulf companies",
+    "internationalCompanies": "International companies",
+    "internationalNote": "Europe, the UK, North America, Asia and beyond",
+    "mainNav": "Main",
+    "footerNav": "Footer"
+  },
+  "footer": {
+    "line": "Elite Workforce. Exceptional Results.",
+    "servicesTitle": "Services",
+    "companyTitle": "Company",
+    "contactTitle": "Contact",
+    "legalTitle": "Legal",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "cookies": "Cookies",
+    "cookieSettings": "Cookie settings",
+    "sitemap": "Sitemap",
+    "rights": "AVERA Elite Business Solutions",
+    "illustrativeNote": "Photographs on this website are illustrative and do not depict AVERA employees, clients or premises."
+  },
+  "home": {
+    "meta": {
+      "title": "AVERA Elite · Hire in Egypt Without an Entity",
+      "description": "EOR, payroll, recruitment and offices in Egypt for Gulf and international companies. One partner, one contract, one invoice."
+    },
+    "eyebrow": "AVERA Elite Business Solutions",
+    "h1": "Your team in Egypt. Our responsibility.",
+    "lead": "From the Gulf or anywhere in the world, enter Egypt with AVERA. We recruit, employ, pay and set up the workspace for your team, so you operate without opening a local entity.",
+    "heroImageAlt": "Illustrative corporate meeting",
+    "entries": [
+      {
+        "eyebrow": "Employer of Record",
+        "title": "Hire in Egypt without opening an entity",
+        "text": "We become the legal employer. You direct the work.",
+        "link": "Learn more"
+      },
+      {
+        "eyebrow": "How it works",
+        "title": "From first call to first payroll, in five stages",
+        "text": "Consultation, proposal, hiring, onboarding and monthly operations — each with a clear owner.",
+        "link": "See the process"
+      },
+      {
+        "eyebrow": "Trust & compliance",
+        "title": "Seven questions to ask before you hire in Egypt",
+        "text": "How to tell a compliant provider from a risky one.",
+        "link": "See the checklist"
+      }
+    ],
+    "guideEntry": {
+      "eyebrow": "Guide",
+      "title": "Hiring in Egypt: the guide for international and Gulf companies",
+      "text": "Contracts, leave, insurance, tax and termination under the current Labour Law.",
+      "link": "Read the guide"
+    },
+    "servicesEyebrow": "What we do",
+    "servicesTitle": "Nine services. One accountable partner.",
+    "servicesText": "One contract, one invoice and one account manager, whether you need a single service or all nine.",
+    "proofTitle": "One partner. One contract. One invoice.",
+    "proofFacts": [
+      {
+        "value": "9",
+        "text": "integrated services, from hiring to a fully run office"
+      },
+      {
+        "value": "0",
+        "text": "local entities you need to open to start operating in Egypt"
+      },
+      {
+        "value": "1",
+        "text": "service agreement covering everything you choose"
+      }
+    ],
+    "processTitle": "From first call to first payroll",
+    "processSteps": [
+      {
+        "title": "Consultation",
+        "text": "We understand the roles, budget and timeline."
+      },
+      {
+        "title": "Proposal & contract",
+        "text": "A clear proposal, then one service agreement."
+      },
+      {
+        "title": "Hiring & onboarding",
+        "text": "We recruit or onboard the people you chose: contracts, insurance, medical cards, workspace."
+      },
+      {
+        "title": "Monthly operations",
+        "text": "Payroll, compliance and reports, on one invoice."
+      }
+    ],
+    "processLink": "The full five-stage process",
+    "marketsEyebrow": "Markets",
+    "marketsTitle": "Built for companies entering Egypt, from the Gulf and the world.",
+    "marketsText": "No entity to open and no government paperwork to manage. Your people work under your direct management, with official contracts, social insurance and medical cover that support long-term retention.",
+    "marketsImageAlt": "Illustrative team collaboration",
+    "trustEyebrow": "Trust & compliance",
+    "trustTitle": "Trust is built on compliance.",
+    "trustText": "When your people work in Egypt, every contract, payslip and insurance file reflects on you. We run each employment relationship we manage in line with Egyptian law, and show you the evidence.",
+    "trustImageAlt": "Illustrative payroll advisory meeting",
+    "trustItems": [
+      {
+        "title": "Arabic-first written contracts",
+        "text": "Bilingual contracts, with the Arabic text governing, as the law requires."
+      },
+      {
+        "title": "Insured from day one",
+        "text": "Registration with social insurance on the actual insurable wage."
+      },
+      {
+        "title": "Proof every month",
+        "text": "Payroll register, insurance and tax evidence in your monthly report."
+      },
+      {
+        "title": "Lawful exits",
+        "text": "Notice, final settlements and insurance closure handled correctly."
+      }
+    ],
+    "trustFactsTitle": "Company documents",
+    "trustFactsText": "Registration and company documents are available to prospective clients on request.",
+    "trustDocs": "Request company documents",
+    "trustLink": "Trust & compliance in detail",
+    "finalTitle": "Let's talk about your team.",
+    "finalText": "Tell us what you need. One of our advisors will prepare a proposal built around your roles, budget and timeline."
+  },
+  "servicesHub": {
+    "meta": {
+      "title": "Workforce Services in Egypt · AVERA Elite",
+      "description": "EOR, payroll, social insurance, medical cover, recruitment, legal, training, offices and events in Egypt, under one contract."
+    },
+    "h1": "Integrated services for your workforce in Egypt",
+    "intro": "Choose one service or combine several under a single contract, a single invoice and one account manager.",
+    "groupIntro": {
+      "employ": "The legal, payroll and insurance foundation for every employee in Egypt.",
+      "talent": "Finding, protecting and developing the people who do the work.",
+      "workplace": "The place your team works and the moments that bring it together."
+    }
+  },
+  "serviceUi": {
+    "included": "What's included",
+    "deliverables": "What you receive",
+    "startTitle": "How we start",
+    "startSteps": [
+      {
+        "title": "Consultation",
+        "text": "A conversation about your team, scope and timing."
+      },
+      {
+        "title": "Proposal",
+        "text": "A written proposal for the services you need."
+      },
+      {
+        "title": "Agreement & set-up",
+        "text": "One service agreement, then onboarding."
+      }
+    ],
+    "startLink": "See the full process"
+  },
+  "services": {
+    "employer-of-record": {
+      "slug": "employer-of-record",
+      "group": "employ",
+      "name": "Employer of Record (EOR)",
+      "short": "Employ in Egypt without an entity",
+      "meta": {
+        "title": "Employer of Record Egypt · AVERA Elite",
+        "description": "Hire and manage employees in Egypt without a local entity. Contracts, payroll, insurance and tax handled for you."
+      },
+      "h1": "Hire and manage employees in Egypt, without a local entity.",
+      "promise": "We become the legal employer. You direct the work; we carry the contracts, payroll, insurance, tax and compliance.",
+      "image": {
+        "key": "recruitment-consultation",
+        "alt": "Illustrative recruitment discussion",
+        "position": "55% 40%"
+      },
+      "includedTitle": "Everything an employer in Egypt is responsible for",
+      "included": [
+        {
+          "title": "Employment contracts",
+          "text": "Written contracts prepared under Egyptian law."
+        },
+        {
+          "title": "Monthly payroll",
+          "text": "Salaries, variables and deductions calculated and paid every month."
+        },
+        {
+          "title": "Social insurance",
+          "text": "Registration, monthly contributions and file management."
+        },
+        {
+          "title": "Tax compliance",
+          "text": "Payroll tax calculated, withheld and filed."
+        },
+        {
+          "title": "Labour-law compliance",
+          "text": "Employment practices aligned with the Labour Law."
+        },
+        {
+          "title": "Medical insurance",
+          "text": "Medical cover arranged according to your service level."
+        },
+        {
+          "title": "Leave and attendance records",
+          "text": "Balances and records kept up to date."
+        },
+        {
+          "title": "Government procedures",
+          "text": "Filings and procedures with the relevant authorities."
+        },
+        {
+          "title": "Lawful offboarding",
+          "text": "Notice, final settlements and file closure handled correctly."
+        }
+      ],
+      "comparison": {
+        "title": "EOR or your own entity?",
+        "intro": "Both are legitimate routes into Egypt. The right one depends on how fast you need to start and how long you plan to stay.",
+        "columns": [
+          "",
+          "Employer of Record",
+          "Your own entity"
+        ],
+        "rows": [
+          [
+            "Time to first hire",
+            "Weeks, once your people are chosen",
+            "Months of incorporation and registration first"
+          ],
+          [
+            "Upfront commitment",
+            "No capital or set-up costs for an entity",
+            "Capital, legal set-up and premises"
+          ],
+          [
+            "Ongoing obligations",
+            "Carried by the EOR",
+            "Filings, audits, payroll and insurance in-house"
+          ],
+          [
+            "Exit",
+            "Governed by the notice terms in your service agreement",
+            "Liquidation and deregistration"
+          ]
+        ]
+      },
+      "process": {
+        "title": "Onboarding, step by step",
+        "steps": [
+          {
+            "title": "Consultation",
+            "text": "Roles, salaries, start dates and benefits."
+          },
+          {
+            "title": "Proposal & agreement",
+            "text": "A clear proposal, then one service agreement."
+          },
+          {
+            "title": "Hiring",
+            "text": "We recruit and assess, or onboard the people you have already chosen."
+          },
+          {
+            "title": "Onboarding",
+            "text": "Contracts, insurance registration, medical cards and workspace."
+          },
+          {
+            "title": "Monthly operations",
+            "text": "Payroll, compliance and reporting on one invoice."
+          }
+        ]
+      },
+      "faq": [
+        {
+          "q": "What is an Employer of Record?",
+          "a": "A company that legally employs your staff in Egypt on your behalf. You manage their daily work; we handle contracts, payroll, insurance, tax and compliance."
+        },
+        {
+          "q": "Do I need a company in Egypt?",
+          "a": "No. That is the point of EOR: you hire without opening an entity."
+        },
+        {
+          "q": "Who owns the employee’s work?",
+          "a": "You do. The service agreement assigns all work product and intellectual property to your company, and every employee signs a confidentiality agreement.",
+          "requires": "ipAssignmentAndNda"
+        },
+        {
+          "q": "How fast can we start?",
+          "a": "It depends on whether you have already chosen your people. We confirm a timeline in the proposal after the first call."
+        }
+      ],
+      "related": [
+        "talent-acquisition",
+        "payroll",
+        "workspace"
+      ],
+      "cta": {
+        "title": "Get a proposal for your Egypt team",
+        "text": "Tell us the roles and start dates. We will set out the employment cost, the service level and the next steps."
+      }
+    },
+    "payroll": {
+      "slug": "payroll",
+      "group": "employ",
+      "name": "Payroll Outsourcing",
+      "short": "Accurate, confidential, every month",
+      "meta": {
+        "title": "Payroll Outsourcing Egypt · AVERA Elite",
+        "description": "Accurate, confidential payroll in Egypt: salaries, tax, social insurance deductions and reports every month."
+      },
+      "h1": "Payroll that is right, on time, every month.",
+      "promise": "An automated, cloud-based and confidential payroll process, run in line with Egyptian law.",
+      "image": {
+        "key": "payroll-advisory",
+        "alt": "Illustrative payroll advisory meeting",
+        "position": "50% 35%"
+      },
+      "includedTitle": "End-to-end payroll",
+      "included": [
+        {
+          "title": "Salary calculation",
+          "text": "Monthly salaries calculated end to end."
+        },
+        {
+          "title": "Tax withholding",
+          "text": "Payroll tax calculated and withheld."
+        },
+        {
+          "title": "Social insurance deductions",
+          "text": "Employee and employer contributions applied correctly."
+        },
+        {
+          "title": "Variables",
+          "text": "Overtime, performance bonuses, incentives and leave balances."
+        },
+        {
+          "title": "Secure digital archive",
+          "text": "Payroll records kept in an encrypted digital archive.",
+          "requires": "encryptedArchive"
+        },
+        {
+          "title": "Audit access",
+          "text": "Records available to you when you need to review them."
+        },
+        {
+          "title": "Your reporting format",
+          "text": "Custom billing and report formats."
+        }
+      ],
+      "deliverablesTitle": "Every month, you receive",
+      "deliverables": [
+        "Monthly payroll register",
+        "Employee payslips",
+        "Tax and social insurance reports",
+        "One consolidated invoice"
+      ],
+      "faq": [
+        {
+          "q": "Can we use payroll without the EOR service?",
+          "a": "Yes. Payroll can be contracted on its own or combined with other services under one agreement."
+        },
+        {
+          "q": "How is pricing calculated?",
+          "a": "A monthly management fee per employee by service level, plus salaries and statutory costs at actual cost, on one invoice."
+        }
+      ],
+      "related": [
+        "social-insurance",
+        "employer-of-record",
+        "health-life"
+      ],
+      "cta": {
+        "title": "Move your Egypt payroll to one accountable partner",
+        "text": "Tell us your headcount and current set-up. We will propose a payroll scope and timeline."
+      }
+    },
+    "social-insurance": {
+      "slug": "social-insurance",
+      "group": "employ",
+      "name": "Social Insurance & Compliance",
+      "short": "Files, brackets and stamped statements",
+      "meta": {
+        "title": "Social Insurance & Compliance Egypt · AVERA",
+        "description": "Statutory social insurance files, correct brackets and stamped statements for employees in Egypt."
+      },
+      "h1": "Statutory social insurance, handled completely.",
+      "promise": "We manage your employees’ insurance files from registration to closure, and keep them aligned with the law as it changes.",
+      "image": {
+        "key": "payroll-advisory",
+        "alt": "Illustrative payroll and social insurance advisory meeting",
+        "position": "70% 35%"
+      },
+      "includedTitle": "What we manage",
+      "included": [
+        {
+          "title": "Insurance files",
+          "text": "Opening, closing and monthly adjustment of each employee’s file."
+        },
+        {
+          "title": "Correct brackets",
+          "text": "Employees placed in the right insurance brackets for their approved wage, within the legal minimum and maximum."
+        },
+        {
+          "title": "Continuous alignment",
+          "text": "Practices reviewed against the Labour Law, insurance decrees and tax codes."
+        },
+        {
+          "title": "Stamped statements",
+          "text": "Official insurance statements for employees, monthly or on request."
+        }
+      ],
+      "deliverablesTitle": "What you and your employees receive",
+      "deliverables": [
+        "Registration from the first day of work",
+        "Monthly contribution records",
+        "Stamped insurance statements on request",
+        "Evidence in your monthly report"
+      ],
+      "faq": [
+        {
+          "q": "Do you register employees on their actual wage?",
+          "a": "Yes. Each employee is registered on the insurable wage that corresponds to their approved salary, within the legal limits."
+        }
+      ],
+      "related": [
+        "payroll",
+        "employer-of-record",
+        "legal-labor-relations"
+      ],
+      "cta": {
+        "title": "Bring your insurance files up to date",
+        "text": "Share your headcount and current position. We will propose a scope to take the files over."
+      }
+    },
+    "health-life": {
+      "slug": "health-life",
+      "group": "employ",
+      "name": "Health, Medical & Life",
+      "short": "Cover, claims and provider networks",
+      "meta": {
+        "title": "Employee Medical & Life Cover Egypt · AVERA",
+        "description": "Medical, life, accident and disability cover for employees in Egypt, with claims and renewals administered for you."
+      },
+      "h1": "Medical and life cover your people will value.",
+      "promise": "Flexible health and life plans built around your preferred insurer, budget and benefits, administered day to day.",
+      "includedTitle": "Cover and administration",
+      "included": [
+        {
+          "title": "Medical cards",
+          "text": "Compliant medical cards issued for your employees."
+        },
+        {
+          "title": "Flexible plans",
+          "text": "Cover arranged through licensed insurers and brokers, built around your preferred insurer, budget and benefits."
+        },
+        {
+          "title": "Claims administration",
+          "text": "Day-to-day claims handled for you and your people."
+        },
+        {
+          "title": "Annual renewals",
+          "text": "Renewals prepared and managed each year."
+        },
+        {
+          "title": "Provider networks",
+          "text": "Medical cards linked to provider networks."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Can we choose the insurer?",
+          "a": "Yes. Plans are built around your preferred insurance carrier, your budget and the benefits you want to offer."
+        }
+      ],
+      "related": [
+        "employer-of-record",
+        "payroll",
+        "social-insurance"
+      ],
+      "cta": {
+        "title": "Design a benefits plan for your team",
+        "text": "Tell us your headcount, budget and preferred level of cover."
+      }
+    },
+    "talent-acquisition": {
+      "slug": "talent-acquisition",
+      "group": "talent",
+      "name": "Talent Acquisition & Headhunting",
+      "short": "Executive search and specialised hiring",
+      "meta": {
+        "title": "Executive Search & Recruitment Egypt · AVERA",
+        "description": "Discreet executive headhunting and specialised hiring in Egypt, with behavioural, psychometric and technical assessment."
+      },
+      "h1": "The right people, found discreetly.",
+      "promise": "Advanced sourcing tools, and a team with experience and a regional network spanning 25 years, to find professionals who fit your culture.",
+      "image": {
+        "key": "recruitment-consultation",
+        "alt": "Illustrative recruitment discussion",
+        "position": "60% 40%"
+      },
+      "includedTitle": "Three ways we hire",
+      "included": [
+        {
+          "title": "Executive headhunting",
+          "text": "Leaders and rare experts, searched for in full confidence."
+        },
+        {
+          "title": "Specialised sourcing",
+          "text": "Technology, engineering, healthcare and digital sales professionals."
+        },
+        {
+          "title": "Structured assessment",
+          "text": "Structured assessment before you meet any candidate."
+        }
+      ],
+      "process": {
+        "title": "From brief to first day",
+        "steps": [
+          {
+            "title": "Brief",
+            "text": "The role, the team and what success looks like."
+          },
+          {
+            "title": "Search",
+            "text": "Targeted sourcing through our network and databases."
+          },
+          {
+            "title": "Assessed shortlist",
+            "text": "Candidates evaluated before they reach you."
+          },
+          {
+            "title": "Interviews",
+            "text": "You meet the people who fit."
+          },
+          {
+            "title": "Offer",
+            "text": "We support the offer and negotiation."
+          },
+          {
+            "title": "Onboarding",
+            "text": "Optionally straight onto AVERA’s Employer of Record."
+          }
+        ]
+      },
+      "faq": [
+        {
+          "q": "Can you also employ the people you find?",
+          "a": "Yes. Candidates you hire through our Talent Acquisition team can join our Employer of Record service from day one."
+        },
+        {
+          "q": "Is the search confidential?",
+          "a": "Yes. Executive searches are run discreetly, for both the client and the candidates approached."
+        }
+      ],
+      "related": [
+        "employer-of-record",
+        "training",
+        "legal-labor-relations"
+      ],
+      "cta": {
+        "title": "Brief us on your next hire",
+        "text": "Share the role and the profile you need. We will propose a search approach."
+      }
+    },
+    "legal-labor-relations": {
+      "slug": "legal-labor-relations",
+      "group": "talent",
+      "name": "Legal & Labour Relations",
+      "short": "Contracts, disputes, labour audits and exits",
+      "meta": {
+        "title": "Labour Law & Employment Contracts Egypt · AVERA",
+        "description": "Employment contracts, NDAs, internal labour regulations and dispute support for companies with teams in Egypt."
+      },
+      "h1": "Protect your company, your know-how and your people.",
+      "promise": "Contracts, workplace regulations and dispute support built on Egyptian labour law.",
+      "includedTitle": "Three areas of work",
+      "included": [
+        {
+          "title": "Contract engineering",
+          "text": "Employment contracts, non-disclosure agreements and non-compete clauses that protect your operational know-how."
+        },
+        {
+          "title": "Regulatory policy design",
+          "text": "Internal labour regulations and disciplinary matrices, prepared for approval by the Ministry of Labour."
+        },
+        {
+          "title": "Dispute resolution & legal auditing",
+          "text": "Representation in labour disputes, amicable settlements and periodic compliance audits."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Do we need EOR to use this service?",
+          "a": "No. Legal and labour-relations support is available on its own or alongside other services."
+        }
+      ],
+      "related": [
+        "employer-of-record",
+        "social-insurance",
+        "training"
+      ],
+      "cta": {
+        "title": "Review your employment framework",
+        "text": "Tell us what you need: new contracts, internal regulations or support with a specific matter."
+      }
+    },
+    "training": {
+      "slug": "training",
+      "group": "talent",
+      "name": "Training & Development",
+      "short": "Technical and leadership programmes",
+      "meta": {
+        "title": "Corporate Training Egypt · AVERA Elite",
+        "description": "Technical up-skilling and soft-skills and leadership training for teams in Egypt."
+      },
+      "h1": "Teams that keep getting better.",
+      "promise": "Training programmes that raise your team’s output and keep its skills in step with how you work.",
+      "includedTitle": "Two streams",
+      "included": [
+        {
+          "title": "Technical training",
+          "text": "Up-skilling on advanced systems and software."
+        },
+        {
+          "title": "Soft skills & leadership",
+          "text": "Communication, time management, productivity and teamwork."
+        }
+      ],
+      "faq": [],
+      "related": [
+        "talent-acquisition",
+        "events",
+        "legal-labor-relations"
+      ],
+      "cta": {
+        "title": "Plan a programme for your team",
+        "text": "Tell us who you want to train and what should change as a result."
+      }
+    },
+    "workspace": {
+      "slug": "workspace",
+      "group": "workplace",
+      "name": "Workspace & Offices",
+      "short": "Furnished offices in Cairo, fully run",
+      "meta": {
+        "title": "Furnished Offices in Cairo for Your Team · AVERA",
+        "description": "Fully or semi-furnished offices in Cairo, fitted out and managed, on one monthly invoice."
+      },
+      "h1": "A ready office for your Egypt team.",
+      "promise": "We source fully or semi-furnished offices in Cairo, fit them out to your brand and run them day to day.",
+      "image": {
+        "key": "workspace-editorial",
+        "alt": "Illustrative office workspace",
+        "position": "50% 50%"
+      },
+      "includedTitle": "From search to day-to-day running",
+      "included": [
+        {
+          "title": "Office search & lease negotiation"
+        },
+        {
+          "title": "Fit-out and furniture"
+        },
+        {
+          "title": "IT and internet set-up"
+        },
+        {
+          "title": "Vendors, cleaning and maintenance"
+        },
+        {
+          "title": "One monthly invoice"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Can my team work from an office?",
+          "a": "Yes. We provide fully or semi-furnished offices in Cairo, fitted out and managed for you."
+        }
+      ],
+      "related": [
+        "employer-of-record",
+        "events",
+        "payroll"
+      ],
+      "cta": {
+        "title": "Plan your Cairo office",
+        "text": "Tell us your team size, preferred area and move-in timing."
+      }
+    },
+    "events": {
+      "slug": "events",
+      "group": "workplace",
+      "name": "Corporate Events",
+      "short": "Engagement that builds culture",
+      "meta": {
+        "title": "Corporate Events & Engagement Egypt · AVERA",
+        "description": "Planning, logistics and on-site management for workshops, business events and employee gatherings in Egypt."
+      },
+      "h1": "Events that build culture.",
+      "promise": "Workshops, business events and employee gatherings, planned and run from start to finish.",
+      "includedTitle": "Full event lifecycle",
+      "included": [
+        {
+          "title": "Planning",
+          "text": "Format, programme and budget for workshops, business events and employee gatherings."
+        },
+        {
+          "title": "Logistics",
+          "text": "Venues, suppliers and coordination."
+        },
+        {
+          "title": "On-site oversight",
+          "text": "Our team runs the day so yours can take part."
+        },
+        {
+          "title": "Engagement focus",
+          "text": "Events designed to strengthen engagement and company culture."
+        }
+      ],
+      "faq": [],
+      "related": [
+        "training",
+        "workspace",
+        "talent-acquisition"
+      ],
+      "cta": {
+        "title": "Plan your next event in Egypt",
+        "text": "Tell us the occasion, the audience and the date."
+      }
+    }
+  },
+  "marketsHub": {
+    "meta": {
+      "title": "Enter Egypt Without an Entity · AVERA Elite",
+      "description": "Build your team in Egypt from Riyadh, Dubai, Doha, Kuwait City or anywhere in the world. No entity, full compliance."
+    },
+    "eyebrow": "Markets",
+    "h1": "Enter the Egyptian market with confidence, without opening an entity.",
+    "intro": "Egyptian talent working for you, under your direct management, while AVERA carries the legal and administrative duties of employment in Egypt.",
+    "imageAlt": "Illustrative team collaboration",
+    "advantagesTitle": "Five advantages of building your team through AVERA",
+    "advantages": [
+      {
+        "title": "Fewer visa obstacles",
+        "text": "Hire professionals who work from Egypt under your direct management, instead of relocating them."
+      },
+      {
+        "title": "Cost efficiency",
+        "text": "Avoid the set-up expenses and government fees of running an independent entity."
+      },
+      {
+        "title": "No government procedures for you",
+        "text": "Skip the legal and administrative set-up in Egypt; we handle the employment procedures."
+      },
+      {
+        "title": "Legal protection",
+        "text": "Employment in Egypt runs through a compliant local structure, reducing your company’s direct exposure to labour and government obligations."
+      },
+      {
+        "title": "Talent stability",
+        "text": "Official contracts, social insurance and medical cover give remote employees the security of on-site employment."
+      }
+    ],
+    "selectorTitle": "Choose your market",
+    "whyEgyptText": "Why Egypt: talent, language and a time zone close to both the Gulf and Europe.",
+    "ctaTitle": "Talk to us in your time zone",
+    "ctaText": "Book a consultation and tell us where you are based. We will arrange a time that suits you."
+  },
+  "marketUi": {
+    "factsTitle": "Working together",
+    "otherMarkets": "Other markets"
+  },
+  "markets": {
+    "saudi-arabia": {
+      "slug": "saudi-arabia",
+      "countryValue": "SA",
+      "name": "Saudi Arabia",
+      "linkLabel": "For Saudi companies",
+      "meta": {
+        "title": "Hire in Egypt from Saudi Arabia · AVERA Elite",
+        "description": "Your Cairo team, managed from the Kingdom. Contracts, payroll, insurance and offices in Egypt, with a Saudi contact line."
+      },
+      "eyebrow": "For Saudi companies",
+      "h1": "Your team in Cairo, run from Riyadh.",
+      "intro": "Saudi companies use AVERA to build teams in Egypt without opening an entity: we employ, pay and insure your people while you direct their work from the Kingdom.",
+      "facts": [
+        {
+          "title": "Time zone",
+          "text": "Cairo is on the same time as Riyadh or one hour behind, depending on the season."
+        },
+        {
+          "title": "Working week",
+          "text": "Overlapping working days, so your managers and your Cairo team share most of the week."
+        },
+        {
+          "title": "Invoicing",
+          "text": "One consolidated monthly invoice. The invoicing currency is agreed in your proposal."
+        }
+      ],
+      "scopeTitle": "What we take off your plate",
+      "scope": [
+        "Employment contracts under Egyptian law",
+        "Monthly payroll in EGP",
+        "Social insurance and payroll tax",
+        "Medical cover",
+        "Recruitment of the people you need",
+        "A ready office in Cairo, if you want one"
+      ],
+      "reasonsTitle": "Why Saudi companies build teams in Egypt",
+      "reasons": [
+        {
+          "title": "Talent without relocation",
+          "text": "Professionals work from Egypt under your management, without visa processes."
+        },
+        {
+          "title": "Arabic and English",
+          "text": "A workforce that works comfortably in both languages."
+        },
+        {
+          "title": "No entity to run",
+          "text": "No incorporation, government filings or local payroll department."
+        }
+      ],
+      "contactTitle": "A Saudi contact line",
+      "contactText": "Speak to us from the Kingdom on our Saudi number, or reach our Cairo team directly.",
+      "phoneIds": [
+        "ksa",
+        "eg-1"
+      ],
+      "cta": {
+        "title": "Get a proposal for your Cairo team",
+        "text": "The form opens with Saudi Arabia already selected."
+      }
+    },
+    "uae": {
+      "slug": "uae",
+      "countryValue": "AE",
+      "name": "United Arab Emirates",
+      "linkLabel": "For UAE companies",
+      "meta": {
+        "title": "Hire in Egypt from the UAE · AVERA Elite",
+        "description": "Your Cairo team, run from Dubai or Abu Dhabi. Contracts, payroll, insurance and offices in Egypt, handled for you."
+      },
+      "eyebrow": "For UAE companies",
+      "h1": "Your team in Cairo, run from Dubai.",
+      "intro": "UAE companies use AVERA to add Egypt-based people to their teams without opening an entity. You manage the work; we carry employment, payroll and compliance in Egypt.",
+      "facts": [
+        {
+          "title": "Time zone",
+          "text": "Cairo is one to two hours behind the UAE, depending on the season."
+        },
+        {
+          "title": "Working week",
+          "text": "Overlapping working days, with a shared core of collaboration hours."
+        },
+        {
+          "title": "Invoicing",
+          "text": "One consolidated monthly invoice. The invoicing currency is agreed in your proposal."
+        }
+      ],
+      "scopeTitle": "What we take off your plate",
+      "scope": [
+        "Employment contracts under Egyptian law",
+        "Monthly payroll in EGP",
+        "Social insurance and payroll tax",
+        "Medical cover",
+        "Recruitment and assessment",
+        "Furnished offices in Cairo"
+      ],
+      "reasonsTitle": "Why UAE companies build teams in Egypt",
+      "reasons": [
+        {
+          "title": "Depth of talent",
+          "text": "Specialists in technology, engineering, finance and healthcare."
+        },
+        {
+          "title": "Cost efficiency",
+          "text": "No entity set-up costs or local administration to staff."
+        },
+        {
+          "title": "Close collaboration",
+          "text": "A short time difference and a shared language."
+        }
+      ],
+      "contactTitle": "Reach our team",
+      "contactText": "Call our Cairo team or email us; we will arrange a call at a time that suits you in the UAE.",
+      "phoneIds": [
+        "eg-1",
+        "eg-2"
+      ],
+      "cta": {
+        "title": "Get a proposal for your Cairo team",
+        "text": "The form opens with the UAE already selected."
+      }
+    },
+    "qatar": {
+      "slug": "qatar",
+      "countryValue": "QA",
+      "name": "Qatar",
+      "linkLabel": "For Qatari companies",
+      "meta": {
+        "title": "Hire in Egypt from Qatar · AVERA Elite",
+        "description": "Your Cairo team, run from Doha. Employment, payroll, insurance and offices in Egypt, handled by AVERA."
+      },
+      "eyebrow": "For Qatari companies",
+      "h1": "Your team in Cairo, run from Doha.",
+      "intro": "Qatari companies can build a team in Egypt without incorporating locally. AVERA employs and pays your people in Egypt; you lead their work from Doha.",
+      "facts": [
+        {
+          "title": "Time zone",
+          "text": "Cairo is on the same time as Doha or one hour behind, depending on the season."
+        },
+        {
+          "title": "Working week",
+          "text": "Overlapping working days for day-to-day collaboration."
+        },
+        {
+          "title": "Invoicing",
+          "text": "One consolidated monthly invoice. The invoicing currency is agreed in your proposal."
+        }
+      ],
+      "scopeTitle": "What we take off your plate",
+      "scope": [
+        "Employment contracts under Egyptian law",
+        "Monthly payroll in EGP",
+        "Social insurance and payroll tax",
+        "Medical cover",
+        "Recruitment and assessment",
+        "Furnished offices in Cairo"
+      ],
+      "reasonsTitle": "Why Qatari companies build teams in Egypt",
+      "reasons": [
+        {
+          "title": "Talent without relocation",
+          "text": "Your people work from Egypt, under your direct management."
+        },
+        {
+          "title": "Shared language",
+          "text": "Arabic and English, in a business culture familiar with the Gulf."
+        },
+        {
+          "title": "One partner",
+          "text": "Recruitment, employment and offices from a single provider."
+        }
+      ],
+      "contactTitle": "Reach our team",
+      "contactText": "Call our Cairo team or email us; we will arrange a call at a time that suits you in Doha.",
+      "phoneIds": [
+        "eg-1",
+        "eg-2"
+      ],
+      "cta": {
+        "title": "Get a proposal for your Cairo team",
+        "text": "The form opens with Qatar already selected."
+      }
+    },
+    "kuwait": {
+      "slug": "kuwait",
+      "countryValue": "KW",
+      "name": "Kuwait",
+      "linkLabel": "For Kuwaiti companies",
+      "meta": {
+        "title": "Hire in Egypt from Kuwait · AVERA Elite",
+        "description": "Your Cairo team, run from Kuwait City. Employment, payroll, insurance and offices in Egypt, handled by AVERA."
+      },
+      "eyebrow": "For Kuwaiti companies",
+      "h1": "Your team in Cairo, run from Kuwait City.",
+      "intro": "Kuwaiti companies can hire in Egypt without setting up a company there. AVERA is the employer in Egypt; you set the priorities and manage the work.",
+      "facts": [
+        {
+          "title": "Time zone",
+          "text": "Cairo is on the same time as Kuwait or one hour behind, depending on the season."
+        },
+        {
+          "title": "Working week",
+          "text": "Overlapping working days for day-to-day collaboration."
+        },
+        {
+          "title": "Invoicing",
+          "text": "One consolidated monthly invoice. The invoicing currency is agreed in your proposal."
+        }
+      ],
+      "scopeTitle": "What we take off your plate",
+      "scope": [
+        "Employment contracts under Egyptian law",
+        "Monthly payroll in EGP",
+        "Social insurance and payroll tax",
+        "Medical cover",
+        "Recruitment and assessment",
+        "Furnished offices in Cairo"
+      ],
+      "reasonsTitle": "Why Kuwaiti companies build teams in Egypt",
+      "reasons": [
+        {
+          "title": "Skilled professionals",
+          "text": "Access to engineering, finance, technology and healthcare talent."
+        },
+        {
+          "title": "No entity to run",
+          "text": "No incorporation or local filings on your side."
+        },
+        {
+          "title": "Stable teams",
+          "text": "Official contracts, insurance and medical cover support retention."
+        }
+      ],
+      "contactTitle": "Reach our team",
+      "contactText": "Call our Cairo team or email us; we will arrange a call at a time that suits you in Kuwait.",
+      "phoneIds": [
+        "eg-1",
+        "eg-2"
+      ],
+      "cta": {
+        "title": "Get a proposal for your Cairo team",
+        "text": "The form opens with Kuwait already selected."
+      }
+    },
+    "international": {
+      "slug": "international",
+      "countryValue": "INTL",
+      "name": "International companies",
+      "linkLabel": "For international companies",
+      "meta": {
+        "title": "Enter Egypt: EOR for International Companies · AVERA",
+        "description": "For companies from Europe, the UK, North America and Asia: hire your first team and open an office in Cairo, without an entity."
+      },
+      "eyebrow": "For companies from Europe, the UK, North America and Asia",
+      "h1": "Entering Egypt? Start operating in weeks, not months.",
+      "intro": "Test the market, hire your first team and open an office in Cairo, with AVERA as your local partner for people, payroll, compliance and workspace.",
+      "facts": [
+        {
+          "title": "Talent",
+          "text": "A large, educated, multilingual workforce."
+        },
+        {
+          "title": "Time zone",
+          "text": "Working hours that overlap with both Europe and the Gulf."
+        },
+        {
+          "title": "Gateway",
+          "text": "A base close to the Middle East and Africa, at competitive cost."
+        }
+      ],
+      "scopeTitle": "What we take off your plate",
+      "scope": [
+        "Arabic contracts under Egyptian law",
+        "Payroll in EGP",
+        "Social insurance and tax",
+        "Medical cover",
+        "Offices",
+        "Local know-how, explained in plain English"
+      ],
+      "path": {
+        "title": "Your path into Egypt",
+        "steps": [
+          {
+            "title": "Explore",
+            "text": "Hire your first people through our Employer of Record. No entity needed."
+          },
+          {
+            "title": "Grow",
+            "text": "Add recruitment, an office and benefits as the team expands."
+          },
+          {
+            "title": "Establish",
+            "text": "When you are ready for your own entity, we help you move your team across smoothly."
+          }
+        ]
+      },
+      "contactTitle": "Reach our team",
+      "contactText": "Email us or call our Cairo team. We will set up a call at a time that works for your region.",
+      "phoneIds": [
+        "eg-1",
+        "eg-2"
+      ],
+      "cta": {
+        "title": "Get a proposal for your first Egypt team",
+        "text": "Tell us the roles you need and where your company is based."
+      }
+    }
+  },
+  "whyEgypt": {
+    "meta": {
+      "title": "Why Egypt: Talent Between Europe, Africa and the Gulf · AVERA",
+      "description": "Why companies build teams in Egypt: depth of talent, Arabic and English, a close time zone and competitive cost."
+    },
+    "eyebrow": "Why Egypt",
+    "h1": "Why Egypt: the talent hub between Europe, Africa and the Gulf.",
+    "intro": "Egypt gives companies access to experienced professionals in a location that works with both the Gulf and Europe.",
+    "blocks": [
+      {
+        "title": "Deep talent pool",
+        "text": "Graduates and experienced professionals in engineering, technology, finance and healthcare."
+      },
+      {
+        "title": "Language and culture",
+        "text": "Arabic and English, with experience working for Gulf, European and US clients."
+      },
+      {
+        "title": "A close time zone",
+        "text": "Working hours that overlap with the Gulf and with Europe, with seasonal differences."
+      },
+      {
+        "title": "Competitive cost",
+        "text": "Total employment costs that compare favourably with many Gulf and European markets."
+      }
+    ],
+    "note": "Your proposal sets out the actual costs for your roles.",
+    "ctaTitle": "See what your Egypt team would look like",
+    "ctaText": "Tell us the roles you need; we will prepare a tailored proposal."
+  },
+  "howItWorks": {
+    "meta": {
+      "title": "How It Works: From First Call to First Payroll · AVERA",
+      "description": "Five stages from consultation to monthly operations: how AVERA builds and runs your team in Egypt."
+    },
+    "h1": "From first call to first payroll.",
+    "intro": "Five stages, each with a clear owner on our side. You always know what happens next.",
+    "steps": [
+      {
+        "title": "Consultation",
+        "text": "We understand the roles, budget and timeline."
+      },
+      {
+        "title": "Proposal & contract",
+        "text": "A clear proposal, then one service agreement."
+      },
+      {
+        "title": "Hiring",
+        "text": "We recruit and assess, or onboard the people you have already chosen."
+      },
+      {
+        "title": "Onboarding",
+        "text": "Contracts, insurance, medical cards and workspace."
+      },
+      {
+        "title": "Monthly operations",
+        "text": "Payroll, compliance, reports and one invoice."
+      }
+    ],
+    "note": "Timelines depend on whether your people are already chosen. We confirm them in your proposal.",
+    "ctaTitle": "Start with a consultation",
+    "ctaText": "A conversation about your roles, your budget and when you want to start."
+  },
+  "industries": {
+    "meta": {
+      "title": "Industries We Serve in Egypt · AVERA Elite",
+      "description": "Workforce and operational solutions in Egypt for finance, healthcare, technology, energy, real estate and hospitality companies."
+    },
+    "h1": "Industries we serve",
+    "intro": "Specialised workforce and operational solutions for companies operating in Egypt, from the GCC and worldwide. Each sector has its own demands, compliance rules and talent profiles.",
+    "rolesLabel": "Examples of roles",
+    "sectors": [
+      {
+        "id": "finance",
+        "name": "Finance & Banking",
+        "roles": "Accountants, financial analysts, payroll and compliance specialists, customer operations."
+      },
+      {
+        "id": "healthcare",
+        "name": "Healthcare & Life Sciences",
+        "roles": "Clinical support, medical administration, pharmaceutical and life-sciences professionals."
+      },
+      {
+        "id": "technology",
+        "name": "Technology & IT",
+        "roles": "Software engineers, data and infrastructure specialists, product and support teams."
+      },
+      {
+        "id": "energy",
+        "name": "Energy, Oil & Gas",
+        "roles": "Engineers, project controls, HSE and technical specialists."
+      },
+      {
+        "id": "real-estate",
+        "name": "Real Estate & Construction",
+        "roles": "Engineers, quantity surveyors, project and facility management."
+      },
+      {
+        "id": "hospitality",
+        "name": "Hospitality & Retail",
+        "roles": "Operations, customer service, sales and back-office teams."
+      }
+    ],
+    "sectorCta": "Hire for this sector",
+    "ctaTitle": "Hiring for a specific sector?",
+    "ctaText": "Tell us the roles and the sector. We will propose how to find, employ and support them."
+  },
+  "pricing": {
+    "meta": {
+      "title": "EOR Pricing in Egypt · AVERA Elite",
+      "description": "How AVERA charges for EOR and workforce services in Egypt, and how to request a tailored proposal for your team."
+    },
+    "h1": "Clear pricing, set out in your proposal.",
+    "intro": "We do not publish a price list, because the cost of a team depends on its roles, salaries and the services you choose. Here is how we charge, and how to get your numbers.",
+    "modelTitle": "How we charge",
+    "modelItems": [
+      {
+        "title": "One management fee",
+        "text": "A monthly management fee per employee, based on your service level."
+      },
+      {
+        "title": "Costs at actual cost",
+        "text": "Salaries, social insurance and government fees pass through at actual cost."
+      },
+      {
+        "title": "One itemised invoice",
+        "text": "Everything on one monthly invoice, with our fee shown separately."
+      }
+    ],
+    "packagesTitle": "Three service levels",
+    "packagesIntro": "Every proposal is built on one of three service levels. Your proposal sets out exactly what each includes for your team.",
+    "bestForLabel": "Best for",
+    "packages": [
+      {
+        "name": "Select",
+        "bestFor": "A small team testing the market"
+      },
+      {
+        "name": "Premier",
+        "bestFor": "A growing team"
+      },
+      {
+        "name": "Signature",
+        "bestFor": "A full operations centre"
+      }
+    ],
+    "coreTitle": "In every service level",
+    "coreText": "Employment contracts, payroll, social insurance and tax administration. Medical cover, legal support, workspace and recruitment are configured in your proposal.",
+    "comparisonTitle": "Service level comparison",
+    "comparisonRows": [
+      {
+        "label": "Contracts, payroll, insurance, tax",
+        "values": [
+          "Included",
+          "Included",
+          "Included"
+        ]
+      },
+      {
+        "label": "Medical & life administration",
+        "values": [
+          "Optional",
+          "Included",
+          "Included"
+        ]
+      },
+      {
+        "label": "Reporting",
+        "values": [
+          "Monthly standard",
+          "Detailed monthly",
+          "Dashboard + quarterly review"
+        ]
+      },
+      {
+        "label": "Account manager",
+        "values": [
+          "Shared",
+          "Dedicated",
+          "Dedicated + priority escalation"
+        ]
+      },
+      {
+        "label": "Legal & labour relations",
+        "values": [
+          "On request",
+          "Partly included",
+          "Included"
+        ]
+      },
+      {
+        "label": "Workspace & offices",
+        "values": [
+          "Optional",
+          "Optional",
+          "Coordination included"
+        ]
+      }
+    ],
+    "bundlesTitle": "Common combinations",
+    "bundles": [
+      {
+        "title": "Recruit + Employ",
+        "text": "We find your people and employ them under our EOR from day one."
+      },
+      {
+        "title": "Egypt Team Setup",
+        "text": "Recruitment, EOR, a ready office and IT set-up: your Cairo team, turnkey."
+      }
+    ],
+    "ctaTitle": "Get the numbers for your team",
+    "ctaText": "Three short steps: your team, the services you need, and how to reach you."
+  },
+  "faqPage": {
+    "meta": {
+      "title": "FAQ: Hiring and Employing in Egypt · AVERA Elite",
+      "description": "Answers on Employer of Record, pricing, recruitment, offices and timelines for companies building teams in Egypt."
+    },
+    "h1": "Frequently asked questions",
+    "intro": "Straight answers to the questions companies ask before they build a team in Egypt.",
+    "groups": [
+      {
+        "title": "Employer of Record",
+        "items": [
+          {
+            "q": "What is an Employer of Record?",
+            "a": "A company that legally employs your staff in Egypt on your behalf. You manage their daily work; we handle contracts, payroll, insurance, tax and compliance."
+          },
+          {
+            "q": "Do I need a company in Egypt?",
+            "a": "No. That is the point of EOR: you hire without opening an entity."
+          },
+          {
+            "q": "Who owns the employee’s work?",
+            "a": "You do. The service agreement assigns all work product and intellectual property to your company, and every employee signs a confidentiality agreement.",
+            "requires": "ipAssignmentAndNda"
+          },
+          {
+            "q": "What happens if we want to end the service?",
+            "a": "Notice terms are set in your service agreement. We handle offboarding and final settlements under Egyptian law."
+          },
+          {
+            "q": "Who is the legal employer in the contract?",
+            "a": "AVERA Elite Business Solutions is the legal employer named in each employee's contract. It is also the party to your service agreement and issues your invoice."
+          },
+          {
+            "q": "What if a payroll or insurance error happens?",
+            "a": "We correct any payroll or insurance error caused by us within the period set in your service agreement, and bear the resulting differences and penalties as that agreement provides."
+          }
+        ]
+      },
+      {
+        "title": "Pricing and invoicing",
+        "items": [
+          {
+            "q": "How is pricing calculated?",
+            "a": "A monthly management fee per employee by service level, plus salaries and statutory costs at actual cost, on one invoice."
+          },
+          {
+            "q": "Which currency do you invoice in?",
+            "a": "The invoicing currency is agreed in your proposal. Salaries are paid to employees in Egyptian pounds."
+          }
+        ]
+      },
+      {
+        "title": "Getting started",
+        "items": [
+          {
+            "q": "Can you also find the people?",
+            "a": "Yes. Our Talent Acquisition team recruits and assesses candidates, and they can join our Employer of Record service from day one."
+          },
+          {
+            "q": "Can my team work from an office?",
+            "a": "Yes. We provide fully or semi-furnished offices in Cairo, fitted out and managed for you."
+          },
+          {
+            "q": "How fast can we start?",
+            "a": "It depends on whether you have already chosen your people. We confirm a timeline in the proposal after the first call."
+          }
+        ]
+      },
+      {
+        "title": "Data",
+        "items": [
+          {
+            "q": "Is employee data secure?",
+            "a": "Payroll and personal records are kept in an encrypted digital archive with restricted access.",
+            "requires": "encryptedArchive"
+          }
+        ]
+      }
+    ],
+    "ctaTitle": "Have a question that is not here?",
+    "ctaText": "Book a consultation and ask us directly."
+  },
+  "trust": {
+    "meta": {
+      "title": "Trust & Compliance · AVERA Elite",
+      "description": "How AVERA runs employment in Egypt: Arabic-governed contracts, social insurance on the real wage, monthly evidence and lawful exits."
+    },
+    "eyebrow": "Trust & compliance",
+    "h1": "Trust is built on compliance.",
+    "intro": "When your people work in Egypt, every contract, payslip and insurance file reflects on you. This page sets out how we run the employment relationships we manage, and the questions we think every buyer should ask any provider, including us.",
+    "factsTitle": "Company facts",
+    "factsCompany": "Company",
+    "factsLegalFormLabel": "Legal form",
+    "factsLegalFormValue": "Limited liability company",
+    "factsCr": "Commercial Register No.",
+    "factsTax": "Tax Card No.",
+    "factsInsurance": "Social Insurance employer file No.",
+    "factsOnRequest": "Registration and company documents are available to prospective clients on request.",
+    "docsButton": "Request company documents",
+    "commitmentsTitle": "How we run each employment relationship",
+    "commitmentsIntro": "The exact obligations for your team are set out in your service agreement.",
+    "commitments": [
+      {
+        "title": "Written contracts, Arabic first",
+        "text": "Bilingual Arabic–English contracts, with the Arabic text governing, as Egyptian law requires."
+      },
+      {
+        "title": "Insured from day one, on the real wage",
+        "text": "Each employee is registered with the National Organization for Social Insurance on their actual insurable wage."
+      },
+      {
+        "title": "Taxes withheld and filed on time",
+        "text": "Payroll tax is calculated, withheld and paid every month."
+      },
+      {
+        "title": "Proof every month",
+        "text": "Payroll register, insurance and tax evidence in your monthly report."
+      },
+      {
+        "title": "Your IP stays yours",
+        "text": "Every employee signs a confidentiality agreement, and all work product is assigned to your company.",
+        "requires": "ipAssignmentAndNda"
+      },
+      {
+        "title": "Data handled with care",
+        "text": "Restricted access, encrypted records and a clear retention policy.",
+        "requires": "encryptedArchive"
+      },
+      {
+        "title": "Lawful exits",
+        "text": "Notice, final settlements and insurance closure handled correctly."
+      },
+      {
+        "title": "Transparent invoices",
+        "text": "Statutory costs passed through at actual cost, our fee shown separately."
+      }
+    ],
+    "questionsTitle": "Seven questions to ask any provider before you hire in Egypt",
+    "questionsIntro": "Ask these of every provider you consider. The answers tell you whether your people, and your company, are properly protected.",
+    "questions": [
+      {
+        "title": "Is the provider a registered Egyptian company?",
+        "text": "Ask for the commercial register and tax card of the entity that will sign your contract."
+      },
+      {
+        "title": "Who is the legal employer on the contract?",
+        "text": "The name on the contract carries the obligations to the employee and to the authorities."
+      },
+      {
+        "title": "Is social insurance paid on the real wage?",
+        "text": "Declaring a lower wage saves a little today and creates arrears, penalties and unhappy employees later."
+      },
+      {
+        "title": "Is the contract in Arabic and lawful under the current Labour Law?",
+        "text": "Contracts written for another country’s law do not protect you in Egypt."
+      },
+      {
+        "title": "Who owns the work and the data?",
+        "text": "Check the IP assignment, the confidentiality agreement and how employee data is stored and transferred abroad."
+      },
+      {
+        "title": "What happens when someone leaves?",
+        "text": "Ask who handles notice, settlements and disputes, and who pays if a claim reaches the labour court."
+      },
+      {
+        "title": "Will you see proof every month?",
+        "text": "A good provider shows you the payroll register and insurance and tax evidence, not just an invoice."
+      }
+    ],
+    "lawsTitle": "The Egyptian laws that govern your team",
+    "lawsIntro": "The main legislation behind employment in Egypt.",
+    "laws": [
+      {
+        "title": "Labour Law No. 14 of 2025",
+        "text": "Contracts, working hours, leave, notice, termination and labour courts."
+      },
+      {
+        "title": "Social Insurance Law No. 148 of 2019",
+        "text": "Pension, injury, sickness and unemployment insurance contributions."
+      },
+      {
+        "title": "Income Tax Law No. 91 of 2005, as amended",
+        "text": "Tax on salaries, withheld by the employer."
+      },
+      {
+        "title": "Personal Data Protection Law No. 151 of 2020",
+        "text": "Consent, processing and cross-border transfer of personal data."
+      }
+    ],
+    "disclaimer": "This page gives general information, not legal advice. Laws and rates change; the rules that apply to your team are confirmed in your proposal.",
+    "imageAlt": "Illustrative payroll advisory meeting"
+  },
+  "guide": {
+    "meta": {
+      "title": "Build your team in Egypt 2027 · AVERA",
+      "description": "A practical guide for companies hiring in Egypt: provider evaluation checklist, first 90 days plan, and new Labor Law compliance review."
+    },
+    "eyebrow": "Free Guide Download",
+    "h1": "Build your team in Egypt 2027",
+    "summaryTitle": "What this guide contains",
+    "summary": "A list of questions for choosing a provider, with a ready evaluation template.\n\nThe role of each party at each stage, and a 90-day plan week by week.\n\nA review checklist for the new Labor Law and what changes in 2027.",
+    "bullets": [
+      "A list of questions for choosing a provider, with a ready evaluation template.",
+      "The role of each party at each stage, and a 90-day plan week by week.",
+      "A review checklist for the new Labor Law and what changes in 2027."
+    ],
+    "submit": "Download the guide free",
+    "successTitle": "Your guide is ready to download",
+    "successText": "Your request has been received. You can download your copy of the guide directly using the button below:",
+    "downloadBtn": "Download the guide (PDF)",
+    "consentLine": "By submitting this form, you agree to the processing of your details in accordance with our",
+    "reviewNote": "",
+    "chapters": [
+      {
+        "title": "Three ways to hire",
+        "text": "Your own entity: full control, but months of set-up, capital and ongoing filings. Employer of Record: hire in weeks; the EOR is the legal employer, you manage the work. Freelance contracts: fast, but a full-time \"freelancer\" who works like an employee can be reclassified as one, with back-dated insurance and claims."
+      },
+      {
+        "title": "Employment contracts",
+        "text": "Contracts must be written; the Arabic text governs. They can be fixed-term or indefinite, and copies are deposited with the Ministry of Labour. Probation is capped at three months. Salary is stated in Egyptian pounds."
+      },
+      {
+        "title": "Working hours",
+        "text": "Standard 8 hours a day, 48 a week, usually Sunday to Thursday, with shorter hours in Ramadan. Overtime is paid at a legal premium, higher at night and on rest days. Remote, part-time and flexible work are recognised with the same rights."
+      },
+      {
+        "title": "Leave",
+        "text": "Annual leave: 15 days in the first year, 21 days from the second, 30 days after 10 years or from age 50, 45 days for employees with disabilities. Casual leave: 7 days a year, taken from annual leave. Maternity: 4 months, up to three times. Paternity: one paid day at birth, up to three times. Official public holidays are set each year."
+      },
+      {
+        "title": "Pay and minimum wage",
+        "text": "The private-sector minimum wage is EGP 7,000 a month (since March 2025); a private-sector change depends on the National Wages Council. Employees are entitled to an annual increase of at least 3% of their insurance wage."
+      },
+      {
+        "title": "Social insurance",
+        "text": "Employer 18.75% and employee 11% of the insurable wage, which is capped at EGP 16,700 a month in 2026. Registration starts on the first day of work."
+      },
+      {
+        "title": "Income tax on salaries",
+        "text": "Progressive rates from 0% to 27.5%, after an annual personal exemption of EGP 20,000. Higher earners may lose the benefit of the lower bands. The employer withholds and pays monthly."
+      },
+      {
+        "title": "Notice and termination",
+        "text": "Notice is three months for indefinite contracts. Dismissal must rest on a lawful reason and a documented process. Dismissal during pregnancy or maternity leave is prohibited. Specialised labour courts have operated since October 2025."
+      },
+      {
+        "title": "Foreign employees",
+        "text": "Each needs an annual work permit from the Ministry of Labour, and foreigners are generally limited to 10% of the workforce."
+      },
+      {
+        "title": "Employee data",
+        "text": "The Personal Data Protection Law (No. 151 of 2020) applies. Transferring employee data abroad, including to your headquarters, needs a lawful basis and may need a permit."
+      },
+      {
+        "title": "What it really costs",
+        "text": "Gross salary + employer social insurance + medical insurance (if offered) + workspace and equipment + your provider’s fee. Ask AVERA for a costed proposal for your roles."
+      }
+    ],
+    "chapterCta": "Get a proposal for your team in Egypt",
+    "disclaimer": "This guide gives general information, not legal advice."
+  },
+  "about": {
+    "meta": {
+      "title": "About AVERA Elite Business Solutions",
+      "description": "AVERA Elite Business Solutions: a partner for workforce, payroll, compliance and workplace services in Egypt and the GCC."
+    },
+    "eyebrow": "About AVERA",
+    "h1": "Elite Workforce. Exceptional Results.",
+    "intro": "AVERA Elite Business Solutions is a partner for organisations seeking excellence in corporate solutions across Egypt, the GCC and beyond. We believe exceptional businesses are built on exceptional people.",
+    "imageAlt": "Illustrative team collaboration",
+    "storyTitle": "Why AVERA exists",
+    "story": "Every growing business reaches a point where people, compliance, payroll and operations become more complex than growth itself. We partner with ambitious organisations across Egypt and the GCC to remove that complexity, so leaders can focus on what matters most: building successful businesses.",
+    "visionTitle": "Vision",
+    "vision": "To be the premier benchmark for excellence in human resources and the most trusted strategic partner for organisations seeking professional stability and sustainable growth across Egypt and the MENA region.",
+    "missionTitle": "Mission",
+    "mission": "Delivering excellence through innovation and integrity: empowering organisations with tailored, high-impact business solutions that drive sustainable growth.",
+    "valuesTitle": "What we stand for",
+    "values": [
+      {
+        "title": "Excellence & Integrity",
+        "text": "We uphold the highest standards of professional excellence in every engagement, and act with transparency, honesty and accountability, building lasting trust with every client and partner we serve."
+      }
+    ],
+    "whyTitle": "Why leaders choose AVERA",
+    "why": [
+      {
+        "title": "Professional team",
+        "text": "Specialists in payroll, HR and facility management."
+      },
+      {
+        "title": "Comprehensive solutions",
+        "text": "One partner from hiring to office, continuously evolving."
+      },
+      {
+        "title": "Tailored services",
+        "text": "Solutions built for efficiency and cost-effectiveness."
+      },
+      {
+        "title": "Client-centric",
+        "text": "Fully dedicated to our clients’ goals and satisfaction."
+      }
+    ],
+    "linksTitle": "More about AVERA",
+    "ctaTitle": "Talk to our team",
+    "ctaText": "Tell us about your plans in Egypt. We will tell you honestly how we can help.",
+    "talk": "Talk to our team"
+  },
+  "leadership": {
+    "meta": {
+      "title": "Leadership · AVERA Elite",
+      "description": "The people behind AVERA Elite Business Solutions."
+    },
+    "h1": "Leadership",
+    "intro": "Senior people who have built and run teams across the region.",
+    "empty": "Awaiting approved leadership names, titles, biographies and portraits. No profiles are shown until real, approved information is supplied."
+  },
+  "clients": {
+    "meta": {
+      "title": "Our Clients · AVERA Elite",
+      "description": "Companies that trust AVERA Elite Business Solutions."
+    },
+    "h1": "Companies that trust AVERA",
+    "intro": "Organisations in Saudi Arabia, the UAE and Egypt that work with AVERA.",
+    "logosTitle": "Clients",
+    "testimonialsTitle": "In their words",
+    "caseTitle": "Case study",
+    "caseLabels": [
+      "Challenge",
+      "What we did",
+      "Result"
+    ],
+    "empty": "Awaiting written logo approvals, original logo files, attributed testimonials and verifiable case-study results."
+  },
+  "careers": {
+    "meta": {
+      "title": "Careers at AVERA Elite",
+      "description": "Work at AVERA, or with the companies we recruit for in Egypt."
+    },
+    "h1": "Join an elite team",
+    "intro": "We recruit for our own team and for the companies we support in Egypt. When roles are open, they are published here.",
+    "imageAlt": "Illustrative recruitment discussion",
+    "tabs": [
+      "Work at AVERA",
+      "Opportunities with our clients"
+    ],
+    "noOpenings": "There are no openings published on this site at the moment.",
+    "interestTitle": "Register your interest",
+    "interestText": "Online CV submission is not available yet. To register your interest, email us with the type of role you are looking for. Please do not send sensitive personal documents until we contact you about a specific role.",
+    "interestButton": "Email us",
+    "clientsNote": "Roles we recruit for on behalf of clients are published here when the client agrees."
+  },
+  "insights": {
+    "meta": {
+      "title": "Insights for Leaders Hiring in Egypt · AVERA",
+      "description": "Articles, labour-law guides and market-entry insights for companies building teams in Egypt."
+    },
+    "h1": "Insights for leaders hiring in Egypt",
+    "intro": "Practical articles on employing, paying and supporting teams in Egypt.",
+    "filters": [
+      "All",
+      "EOR & hiring",
+      "Payroll & tax",
+      "Labour law",
+      "Market-entry guides",
+      "Case studies"
+    ],
+    "planned": "Planned articles (not yet written or approved):",
+    "plannedTitles": [
+      "EOR vs. opening a company in Egypt: time, cost and risk compared",
+      "The true cost of an employee in Egypt: salary, insurance and taxes explained",
+      "How Saudi companies build remote teams in Cairo",
+      "Egypt’s social insurance: what employers must know",
+      "Protecting your IP when your team works remotely",
+      "Setting up an office in Cairo: furnished, semi-furnished or serviced?"
+    ]
+  },
+  "contact": {
+    "meta": {
+      "title": "Contact AVERA Elite · Get Your Proposal",
+      "description": "Request a tailored proposal or book a consultation about building your team in Egypt."
+    },
+    "h1": "Let's talk about your team",
+    "intro": "Whether you are exploring workforce solutions, your workplace or executive search, our team is ready to support your goals in Egypt, wherever you are based.",
+    "tabs": [
+      "Request a proposal",
+      "Book a consultation"
+    ],
+    "bookingText": "Book a complimentary strategy session with one of our advisors. Choose a time in your own time zone.",
+    "bookingButton": "Choose a time",
+    "officeNote": "Meetings by appointment."
+  },
+  "thankYou": {
+    "meta": {
+      "title": "Thank you · AVERA Elite",
+      "description": "Your request has been received."
+    },
+    "h1": "Thank you. Your request is with our team.",
+    "text": "One of our advisors will review it and contact you.",
+    "noAck": "If you have sent us a request, our team will be in touch. If not, you can send one from the contact page.",
+    "next": "Meanwhile",
+    "links": [
+      {
+        "label": "How it works",
+        "href": "/how-it-works"
+      },
+      {
+        "label": "Trust & compliance",
+        "href": "/trust"
+      },
+      {
+        "label": "Explore our services",
+        "href": "/services"
+      }
+    ]
+  },
+  "legal": {
+    "privacy": {
+      "meta": {
+        "title": "Privacy Policy · AVERA Elite",
+        "description": "How this website collects and uses the information you send us."
+      },
+      "h1": "Privacy Policy",
+      "updatedNote": "Last updated: October 2026",
+      "sections": [
+        {
+          "title": "1.1 Who we are",
+          "text": "This website (averaelite.com) is operated by AVERA Elite Business Solutions (\"AVERA\", \"we\"), a limited liability company, commercial register no. 310765, tax card no. 774157631, registered address: 74 El Nozha Street, Heliopolis, Cairo, Egypt, 12th floor. We are responsible for the personal data that reaches us through this website. This policy applies to you if you visit the website, send a request for an offer, a consultation or documents, or apply for a job. The data of our clients' employees that we process while providing the service is governed by the service agreement and its data processing agreement, not by this policy. For privacy matters, contact: info@averaelite.com.",
+          "contentHtml": "<p>This website (averaelite.com) is operated by <strong>AVERA Elite Business Solutions</strong> (\"AVERA\", \"we\"), a limited liability company, commercial register no. 310765, tax card no. 774157631, registered address: 74 El Nozha Street, Heliopolis, Cairo, Egypt, 12th floor. We are responsible for the personal data that reaches us through this website.</p>\n<p>This policy applies to you if you visit the website, send a request for an offer, a consultation or documents, or apply for a job. The data of our clients' employees that we process while providing the service is governed by the service agreement and its data processing agreement, not by this policy.</p>\n<p>For privacy matters, contact: <a href=\"mailto:info@averaelite.com\">info@averaelite.com</a>.</p>"
+        },
+        {
+          "title": "1.2 What data we collect",
+          "text": "What you give us: When you request an offer or consultation: name, business email, company name, country, phone (optional), team size, roles and services requested, start date, and suitable times to contact you. When you apply for a job: name, email, phone, country of residence, LinkedIn link (optional), and your CV, including your experience and qualifications. When you write to us: the content of your message. What is recorded automatically: the page the request was sent from, browsing language, IP address and browser type in server logs, for security purposes only. What we ask you not to send: a photo of your ID or passport, or any health, religious, family or financial data, or data about other people, unless we expressly ask for it for a specific job and explain why. If we receive data of this kind without asking, we will delete it or return it to you where possible. Children: the website is aimed at businesses and adults, and we do not knowingly collect data from anyone under 18.",
+          "contentHtml": "<h3>What you give us</h3>\n<ul>\n  <li><strong>When you request an offer or consultation:</strong> name, business email, company name, country, phone (optional), team size, roles and services requested, start date, and suitable times to contact you.</li>\n  <li><strong>When you apply for a job:</strong> name, email, phone, country of residence, LinkedIn link (optional), and your CV, including your experience and qualifications.</li>\n  <li><strong>When you write to us:</strong> the content of your message.</li>\n</ul>\n<h3>What is recorded automatically</h3>\n<p>The page the request was sent from, browsing language, IP address and browser type in server logs, for security purposes only.</p>\n<h3>What we ask you not to send</h3>\n<p>A photo of your ID or passport, or any health, religious, family or financial data, or data about other people, unless we expressly ask for it for a specific job and explain why. If we receive data of this kind without asking, we will delete it or return it to you where possible.</p>\n<p><strong>Children:</strong> the website is aimed at businesses and adults, and we do not knowingly collect data from anyone under 18.</p>"
+        },
+        {
+          "title": "1.3 Why we use your data",
+          "text": "We use your data for clear, specific purposes: replying to your request and preparing offers, reviewing job applications, candidate database inclusion with separate consent, sending articles or marketing with separate consent, website security and legal obligations, and optional measurement tools.",
+          "contentHtml": "<div class=\"table-wrap\">\n  <table class=\"compare\">\n    <thead>\n      <tr>\n        <th scope=\"col\">What we do</th>\n        <th scope=\"col\">Why</th>\n        <th scope=\"col\">Note</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr><td>We reply to your request, prepare the offer and contact you about it</td><td>Your consent when you submit, and preliminary steps toward a contract you request</td><td>We do not use it for any other purpose</td></tr>\n      <tr><td>We review your job application and contact you about it</td><td>Your consent</td><td>Retention period in section 1.6</td></tr>\n      <tr><td>We keep you in the candidate database for future roles</td><td>Your separate, optional consent</td><td>You can withdraw it at any time</td></tr>\n      <tr><td>We send articles, guides or marketing messages</td><td>Your separate, optional consent only</td><td>An unsubscribe link in every message</td></tr>\n      <tr><td>We run the website and protect it from misuse</td><td>Website security needs and legal obligations ⚖</td><td>Limited technical data</td></tr>\n      <tr><td>We comply with a law or a request from a competent authority</td><td>Legal obligation</td><td>Where applicable</td></tr>\n      <tr><td>We improve the website with optional measurement tools</td><td>Your consent through the cookie banner only</td><td>Not enabled at launch</td></tr>\n    </tbody>\n  </table>\n</div>"
+        },
+        {
+          "title": "1.4 Who can see your data",
+          "text": "Authorised AVERA staff only. Service providers who act on our behalf, on our instructions and under confidentiality and security obligations: hosting, email and form handling. A specific client, in the case of candidates: we do not share your CV with any client until we have spoken with you and you have expressly agreed. Official bodies if required by law, a court ruling or a competent authority. A prospective buyer if the company merges or is sold, with notice to you and the same level of protection.",
+          "contentHtml": "<ul>\n  <li><strong>Authorised AVERA staff only.</strong></li>\n  <li><strong>Service providers who act on our behalf, on our instructions and under confidentiality and security obligations:</strong> hosting, email and form handling.</li>\n  <li><strong>A specific client, in the case of candidates:</strong> we do not share your CV with any client until we have spoken with you and you have expressly agreed.</li>\n  <li><strong>Official bodies</strong> if required by law, a court ruling or a competent authority.</li>\n  <li><strong>A prospective buyer</strong> if the company merges or is sold, with notice to you and the same level of protection.</li>\n</ul>"
+        },
+        {
+          "title": "1.5 Does your data leave Egypt?",
+          "text": "Your data may be stored or processed by providers with servers or operations outside Egypt. We transfer personal data abroad only in the way the Personal Data Protection Law and its executive regulations allow, with appropriate contractual and technical safeguards, [and after any licences or approvals the law requires] ⚖. If you agree to share your CV with a client in another country, that is a transfer made at your wish and for a specific purpose.",
+          "contentHtml": "<p>Your data may be stored or processed by providers with servers or operations outside Egypt. We transfer personal data abroad only in the way the Personal Data Protection Law and its executive regulations allow, with appropriate contractual and technical safeguards, [and after any licences or approvals the law requires] ⚖.</p>\n<p>If you agree to share your CV with a client in another country, that is a transfer made at your wish and for a specific purpose.</p>"
+        },
+        {
+          "title": "1.6 How long we keep it",
+          "text": "Offer and consultation requests: until the purpose ends and [12] months have passed since the last contact, or until you ask for deletion, whichever is earlier. Job applications: six months after the vacancy closes, then we delete them or anonymise them, unless you agreed to stay in the candidate database. Candidate database (with your consent): until you ask for deletion or [24] months have passed since the last contact, with periodic review. Server security logs: [90] days. Do-not-contact list: the minimum (email only) so that we respect your objection. What the law requires us to keep: the period set by law.",
+          "contentHtml": "<div class=\"table-wrap\">\n  <table class=\"compare\">\n    <thead>\n      <tr>\n        <th scope=\"col\">Category</th>\n        <th scope=\"col\">Period</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr><td>Offer and consultation requests</td><td>Until the purpose ends and [12] months have passed since the last contact, or until you ask for deletion, whichever is earlier</td></tr>\n      <tr><td>Job applications</td><td>Six months after the vacancy closes, then we delete them or anonymise them, unless you agreed to stay in the candidate database</td></tr>\n      <tr><td>Candidate database (with your consent)</td><td>Until you ask for deletion or [24] months have passed since the last contact, with periodic review</td></tr>\n      <tr><td>Server security logs</td><td>[90] days</td></tr>\n      <tr><td>Do-not-contact list</td><td>The minimum (email only) so that we respect your objection</td></tr>\n      <tr><td>What the law requires us to keep</td><td>The period set by law</td></tr>\n    </tbody>\n  </table>\n</div>"
+        },
+        {
+          "title": "1.7 Your rights",
+          "text": "You have the right to: know what we hold about you, access it and obtain a copy, correct it, delete it, restrict its processing, and object to it. You may withdraw your consent at any time; this does not affect what happened before withdrawal. To exercise any right, write to info@averaelite.com stating your request. We will verify your identity in a way suited to the request and reply within 10 working days ⚖.",
+          "contentHtml": "<p>You have the right to: know what we hold about you, access it and obtain a copy, correct it, delete it, restrict its processing, and object to it. You may withdraw your consent at any time; this does not affect what happened before withdrawal.</p>\n<p>To exercise any right, write to <a href=\"mailto:info@averaelite.com\">info@averaelite.com</a> stating your request. We will verify your identity in a way suited to the request and reply within 10 working days ⚖.</p>"
+        },
+        {
+          "title": "1.8 How we protect your data",
+          "text": "We apply appropriate technical and organisational controls, including: access restricted by permissions, encryption in transit (HTTPS), and limiting access to those who need it. No system is completely secure. If a breach puts your data at risk, we will notify the Personal Data Protection Centre and those affected within the deadlines set by law ⚖.",
+          "contentHtml": "<p>We apply appropriate technical and organisational controls, including: access restricted by permissions, encryption in transit (HTTPS), and limiting access to those who need it. No system is completely secure. If a breach puts your data at risk, we will notify the Personal Data Protection Centre and those affected within the deadlines set by law ⚖.</p>"
+        },
+        {
+          "title": "1.9 Cookies and measurement tools",
+          "text": "You will find them in the Cookie Policy. The website's forms contain a hidden field that blocks automated messages, and the content of no form is sent to measurement tools.",
+          "contentHtml": "<p>You will find them in the <a href=\"/en/cookies\">Cookie Policy</a>. The website's forms contain a hidden field that blocks automated messages, and the content of no form is sent to measurement tools.</p>"
+        },
+        {
+          "title": "1.10 Links to other websites",
+          "text": "The website may refer you to other websites such as LinkedIn. They have their own privacy policies, which we do not control.",
+          "contentHtml": "<p>The website may refer you to other websites such as LinkedIn. They have their own privacy policies, which we do not control.</p>"
+        },
+        {
+          "title": "1.11 Complaints",
+          "text": "If you have a complaint, please write to us first at info@averaelite.com so that we can resolve it. You also have the right to complain to the Personal Data Protection Centre in the Arab Republic of Egypt.",
+          "contentHtml": "<p>If you have a complaint, please write to us first at <a href=\"mailto:info@averaelite.com\">info@averaelite.com</a> so that we can resolve it. You also have the right to complain to the Personal Data Protection Centre in the Arab Republic of Egypt.</p>"
+        },
+        {
+          "title": "1.12 Changes to this policy",
+          "text": "We may amend this policy. We will state the date of the last update and notify you of any material change by a suitable means. If the Arabic and English texts differ, the Arabic text prevails.",
+          "contentHtml": "<p>We may amend this policy. We will state the date of the last update and notify you of any material change by a suitable means. If the Arabic and English texts differ, the Arabic text prevails.</p>"
+        }
+      ],
+      "inShortTitle": "In short",
+      "inShort": [
+        "We collect as little data as possible and use it for a clear purpose: replying to you or reviewing a job application.",
+        "We do not sell your data, and we do not make purely automated decisions that affect you.",
+        "We do not share your CV with any client until we have spoken with you and you have agreed.",
+        "At any time you can ask to see, correct or delete your data: info@averaelite.com"
+      ]
+    },
+    "terms": {
+      "meta": {
+        "title": "Website Terms of Use · AVERA Elite",
+        "description": "Terms for using the AVERA Elite Business Solutions website."
+      },
+      "h1": "Website terms of use",
+      "updatedNote": "Last updated: October 2026",
+      "sections": [
+        {
+          "title": "2.1 Acceptance and scope",
+          "text": "By using the website, you acknowledge that you have read and agree to these Terms, our Privacy Policy, and our Cookies Policy. If you do not agree, please discontinue using the website. These Terms apply only to website use. AVERA services are governed by signed written agreements.",
+          "contentHtml": "<p>By browsing, accessing, or utilizing this website, you acknowledge that you have read, understood, and agreed to be bound by these Website Terms of Use, together with our <a href=\"/en/privacy\">Privacy Policy</a> and <a href=\"/en/cookies\">Cookies Policy</a>. If you do not consent to these Terms, you must immediately cease accessing and using the website.</p>\n<p>These Terms govern your use of the public website only. AVERA's business services (including Employer of Record, Payroll Outsourcing, and Recruitment Solutions) are provided exclusively pursuant to formal, written, and bilaterally executed service agreements and Order Forms, which take precedence over these Terms in the event of any conflict.</p>"
+        },
+        {
+          "title": "2.2 Who operates the website",
+          "text": "The website is operated by AVERA Elite Business Solutions, a limited liability company registered in Egypt (commercial register no. 310765, tax card no. 774157631). Registered office: 74 El Nozha St., Heliopolis, Cairo, Egypt, 12th Floor. Contact: info@averaelite.com.",
+          "contentHtml": "<p>This website is owned and operated by <strong>AVERA Elite Business Solutions</strong>, a limited liability company incorporated and registered under the laws of the Arab Republic of Egypt:</p>\n<ul>\n  <li><strong>Commercial Registration No.:</strong> 310765</li>\n  <li><strong>Tax Card No.:</strong> 774157631</li>\n  <li><strong>Registered Corporate Address:</strong> 74 El Nozha St., Heliopolis, Cairo, Egypt, 12th Floor</li>\n  <li><strong>Official Inquiries:</strong> <a href=\"mailto:info@averaelite.com\">info@averaelite.com</a></li>\n</ul>"
+        },
+        {
+          "title": "2.3 The nature of the information on the website",
+          "text": "What appears on the website is general informational material introducing our services. It does not constitute legal, tax, financial, insurance or investment advice, creates no professional relationship or advisory duty, and is neither a binding offer nor an invitation to contract.",
+          "contentHtml": "<p>The materials, articles, and descriptions presented on this website are provided for general informational purposes to introduce AVERA's enterprise capabilities and market expertise. Nothing on this website constitutes legal, tax, accounting, financial, regulatory, or insurance advice.</p>\n<p>Browsing this website or communicating through it does not establish any professional, advisory, or contractual relationship between AVERA and any visitor. The website does not constitute a binding legal offer or an invitation to contract. Statutory requirements, procedures, and rates evolve over time; your operational relationship with AVERA is governed solely by your formally executed service agreement.</p>"
+        },
+        {
+          "title": "2.4 Requesting an offer or consultation",
+          "text": "Submitting a proposal request or consultation inquiry through the website does not create a contract. Important candidate policy: AVERA never charges candidates or job applicants any fees, commissions, or expenses of any kind.",
+          "contentHtml": "<p>Submitting an inquiry, proposal request, or consultation booking through online website forms does not create a contract. A binding contractual engagement commences only upon the mutual execution of written commercial contracts.</p>\n<p><strong>Strict Anti-Fee Recruitment Policy:</strong> In our recruitment, executive search, and workforce placement services, AVERA never solicits or accepts any fees, deposits, commissions, or administrative costs from candidates or job applicants under any circumstances. If any individual or entity requests remuneration claiming to represent AVERA, please report it immediately to <a href=\"mailto:info@averaelite.com\">info@averaelite.com</a>.</p>"
+        },
+        {
+          "title": "2.5 Acceptable use",
+          "text": "You agree to use the website in a lawful manner. Prohibited: unauthorized access attempts, introducing malware, automated scraping without permission, spam or fraudulent inquiries, and impersonation. Violations are reported to authorities.",
+          "contentHtml": "<p>You agree to access and utilize the website in full compliance with all applicable laws and regulations. You may not:</p>\n<ul>\n  <li>Attempt unauthorized access to our administrative systems, hosting servers, or corporate networks.</li>\n  <li>Transmit or introduce viruses, trojans, worms, logic bombs, or other malicious code.</li>\n  <li>Deploy automated bots, spiders, or scrapers to extract website text, data, or media without prior written authorization.</li>\n  <li>Use interactive forms to distribute unsolicited advertisements, spam, or misleading inquiries.</li>\n  <li>Impersonate any person or enterprise or misrepresent your affiliation with AVERA.</li>\n</ul>\n<p>Any breach of these prohibitions will be pursued legally and reported to competent law enforcement agencies under applicable statutes, including Egypt's Anti-Cybercrime Law No. 175 of 2018.</p>"
+        },
+        {
+          "title": "2.6 Intellectual property",
+          "text": "All website content, text, trademarks, and the AVERA logo are owned by or licensed to AVERA, protected under Egyptian and international IP laws. Copying, republishing, modifying, redistributing, or commercial use without prior written consent is prohibited.",
+          "contentHtml": "<p>All content, structure, layout, typography, original text, brand identifiers, and the AVERA name and trademarks are the exclusive property of AVERA or its licensors, protected under domestic and international intellectual property laws, including Egyptian Intellectual Property Law No. 82 of 2002.</p>\n<p>You are granted a limited, non-exclusive license to view and reference website content internally within your organization for non-commercial informational purposes. Any reproduction, distribution, public display, commercial exploitation, modification, or brand usage without prior written authorization from AVERA is strictly prohibited.</p>"
+        },
+        {
+          "title": "2.7 Images and illustrative content",
+          "text": "The images and graphics on the website are illustrative and do not depict actual AVERA staff, clients, candidates, or private facilities.",
+          "contentHtml": "<p>All photography, graphics, and architectural imagery featured on the website are conceptual and illustrative in nature. They do not necessarily depict actual AVERA personnel, client facilities, candidate interviews, or specific internal offices.</p>"
+        },
+        {
+          "title": "2.8 External links",
+          "text": "The website may include links to third-party services such as LinkedIn. These links are provided for convenience only; we do not endorse or assume liability for third-party websites or services.",
+          "contentHtml": "<p>Our website may reference or link to third-party websites or services (including professional networks such as LinkedIn). These links are provided solely for user convenience. AVERA exercises no editorial or operational control over third-party platforms and assumes no responsibility for their content, availability, or commercial practices.</p>"
+        },
+        {
+          "title": "2.9 Limits of our liability",
+          "text": "The website and its content are provided on an 'as is' basis without warranties. To the maximum extent permitted by law, AVERA disclaims liability for indirect, consequential, or incidental losses. Mandatory statutory liabilities cannot be excluded.",
+          "contentHtml": "<p>The website and all materials therein are provided on an \"as is\" and \"as available\" basis, without warranties of any kind, whether express, statutory, or implied. To the maximum extent permitted by law, AVERA disclaims all liability for any indirect, incidental, punitive, or consequential losses, loss of business, or operational interruption arising out of the use or inability to use the website.</p>\n<p>Nothing in these Terms shall limit or exclude any statutory liability that cannot be lawfully disclaimed under Egyptian law (such as liability resulting from intentional fraud or gross negligence).</p>"
+        },
+        {
+          "title": "2.10 Changing or suspending the website",
+          "text": "We reserve the right to update, modify, or temporarily suspend the website or any portion of its features without prior notice or liability.",
+          "contentHtml": "<p>AVERA reserves the unilateral right to update, revise, enhance, or temporarily suspend access to the website or any of its sections or features at any time, without prior notice, for operational maintenance, security upgrades, or business reasons.</p>"
+        },
+        {
+          "title": "2.11 Changes to the Terms",
+          "text": "We may amend these Terms periodically. Continued use of the website following amendments constitutes acceptance of the revised Terms.",
+          "contentHtml": "<p>We may modify these Terms of Use at our discretion. The updated Terms become effective immediately upon posting to the website with an updated revision date. Your continued browsing or utilization of the website following such changes constitutes binding acceptance of the amended Terms.</p>"
+        },
+        {
+          "title": "2.12 Governing law and courts",
+          "text": "These Terms are governed by the laws of the Arab Republic of Egypt. The courts of Cairo, Egypt have exclusive jurisdiction over any disputes.",
+          "contentHtml": "<p>These Website Terms of Use and any claims or disputes arising out of or related to them shall be governed by, construed, and enforced in accordance with the laws of the Arab Republic of Egypt. The competent courts of Cairo, Egypt shall have exclusive territorial and subject-matter jurisdiction over any dispute arising hereunder.</p>"
+        },
+        {
+          "title": "2.13 General provisions",
+          "text": "If any provision is found invalid, the remaining provisions are unaffected. Failure to enforce a right does not constitute a waiver. If the Arabic and English texts differ, the Arabic text prevails.",
+          "contentHtml": "<p>If any provision of these Terms is determined by a court of competent jurisdiction to be invalid, illegal, or unenforceable, such determination shall not affect the validity or enforceability of the remaining provisions. Any failure or delay by AVERA in asserting or enforcing any right under these Terms shall not operate as a waiver of that right. In the event of any conflict, divergence, or interpretive ambiguity between the Arabic and English versions of these Terms, the Arabic version shall prevail.</p>"
+        }
+      ],
+      "inShortTitle": "In short",
+      "inShort": [
+        "The website introduces AVERA's services. Its information is general and is neither an offer nor advice.",
+        "Submitting a form does not create a contract. What governs our services is the signed written agreement.",
+        "The website's content and logo belong to AVERA.",
+        "Please use the website properly, in a way that does not harm it or anyone else."
+      ]
+    },
+    "cookies": {
+      "meta": {
+        "title": "Cookie Policy · AVERA Elite",
+        "description": "Which cookies and similar storage this website uses, and how to change your choice."
+      },
+      "h1": "Cookie policy",
+      "intro": "This website uses a small amount of browser storage to work properly. Optional analytics are only loaded if you accept them.",
+      "essentialTitle": "Essential storage",
+      "essential": [
+        {
+          "title": "Consent choice",
+          "text": "Remembers whether you accepted or rejected optional analytics."
+        },
+        {
+          "title": "Form progress",
+          "text": "Keeps the details you typed into the proposal form during your visit, so they are not lost if you change page or language. Cleared when you close the tab."
+        }
+      ],
+      "optionalTitle": "Optional analytics",
+      "optionalNone": "No analytics or advertising tools are currently active on this website.",
+      "optionalConfigured": "If you accept, we load the following tools to understand how the site is used. They are not loaded if you reject:",
+      "manage": "Change your choice"
+    }
+  },
+  "sitemapPage": {
+    "meta": {
+      "title": "Sitemap · AVERA Elite",
+      "description": "Every page on the AVERA Elite Business Solutions website."
+    },
+    "h1": "Sitemap",
+    "groups": {
+      "company": "Company",
+      "services": "Services",
+      "markets": "Markets",
+      "resources": "Resources",
+      "legal": "Legal"
+    }
+  },
+  "notFound": {
+    "meta": {
+      "title": "Page not found · AVERA Elite",
+      "description": "The page you are looking for does not exist."
+    },
+    "h1": "We could not find that page.",
+    "text": "The link may be out of date, or the page may have moved.",
+    "home": "Return to the home page",
+    "services": "Explore our services",
+    "contact": "Contact us"
+  },
+  "forms": {
+    "stepLabel": "Step {n} of {total}",
+    "stepNames": [
+      "Your team",
+      "Services",
+      "Contact"
+    ],
+    "required": "Required",
+    "optional": "optional",
+    "next": "Continue",
+    "back": "Back",
+    "submit": "Send my request",
+    "submitting": "Sending…",
+    "errorSummary": "Please check the highlighted fields.",
+    "errors": {
+      "required": "This field is required.",
+      "email": "Enter a valid email address, for example name@company.com.",
+      "services": "Choose at least one service, or “Not sure yet”.",
+      "tooLong": "This is too long.",
+      "generic": "Your request could not be sent. Please try again, or contact us directly.",
+      "network": "We could not reach the server. Check your connection and try again, or contact us directly.",
+      "rateLimited": "Too many attempts. Please wait a minute and try again."
+    },
+    "freeEmailHint": "A company email helps us prepare your proposal, but any address you use is fine.",
+    "privacy": "We use these details only to respond to your request. See our {privacy}.",
+    "privacyLink": "privacy notice",
+    "previewTitle": "Preview mode: your request has not been sent",
+    "previewText": "This website is not yet connected to AVERA’s inbox or CRM, so nothing was delivered. Your details are still in the form. Please contact the team directly:",
+    "previewBanner": "",
+    "testBanner": "Test mode: submissions are accepted but not delivered.",
+    "retry": "Try again",
+    "fields": {
+      "employees": "Number of employees",
+      "roles": "Roles or job levels",
+      "rolesHint": "For example: two software engineers and an accountant",
+      "start": "Target start",
+      "services": "Services you need",
+      "servicesHint": "Choose all that apply.",
+      "message": "Anything else we should know?",
+      "name": "Full name",
+      "email": "Work email",
+      "company": "Company",
+      "country": "Where is your company based?",
+      "countryPlaceholder": "Select a country or region",
+      "phone": "Phone or WhatsApp",
+      "phoneHint": "Include your country code",
+      "availability": "Preferred days and times",
+      "availabilityHint": "Include your time zone, for example: Sun–Tue mornings, Riyadh time",
+      "topic": "What would you like to discuss?",
+      "documents": "Which documents do you need?",
+      "documentsHint": "We will confirm what can be shared and on what terms."
+    },
+    "employeesOptions": [
+      {
+        "value": "1-5",
+        "label": "1–5"
+      },
+      {
+        "value": "6-20",
+        "label": "6–20"
+      },
+      {
+        "value": "21-50",
+        "label": "21–50"
+      },
+      {
+        "value": "50+",
+        "label": "50+"
+      }
+    ],
+    "startOptions": [
+      {
+        "value": "asap",
+        "label": "As soon as possible"
+      },
+      {
+        "value": "1-month",
+        "label": "Within a month"
+      },
+      {
+        "value": "1-3-months",
+        "label": "In 1–3 months"
+      },
+      {
+        "value": "3-6-months",
+        "label": "In 3–6 months"
+      },
+      {
+        "value": "exploring",
+        "label": "Still exploring"
+      }
+    ],
+    "serviceOptions": [
+      {
+        "value": "employer-of-record",
+        "label": "Employer of Record (EOR)"
+      },
+      {
+        "value": "payroll",
+        "label": "Payroll"
+      },
+      {
+        "value": "social-insurance",
+        "label": "Social insurance & compliance"
+      },
+      {
+        "value": "health-life",
+        "label": "Medical & life cover"
+      },
+      {
+        "value": "talent-acquisition",
+        "label": "Recruitment"
+      },
+      {
+        "value": "legal-labor-relations",
+        "label": "Legal & labour relations"
+      },
+      {
+        "value": "training",
+        "label": "Training"
+      },
+      {
+        "value": "workspace",
+        "label": "Office / workspace"
+      },
+      {
+        "value": "events",
+        "label": "Corporate events"
+      },
+      {
+        "value": "not-sure",
+        "label": "Not sure yet"
+      }
+    ],
+    "countries": [
+      {
+        "value": "SA",
+        "label": "Saudi Arabia"
+      },
+      {
+        "value": "AE",
+        "label": "United Arab Emirates"
+      },
+      {
+        "value": "QA",
+        "label": "Qatar"
+      },
+      {
+        "value": "KW",
+        "label": "Kuwait"
+      },
+      {
+        "value": "BH",
+        "label": "Bahrain"
+      },
+      {
+        "value": "OM",
+        "label": "Oman"
+      },
+      {
+        "value": "EG",
+        "label": "Egypt"
+      },
+      {
+        "value": "UK",
+        "label": "United Kingdom"
+      },
+      {
+        "value": "EU",
+        "label": "Europe"
+      },
+      {
+        "value": "NA",
+        "label": "North America"
+      },
+      {
+        "value": "ASIA",
+        "label": "Asia"
+      },
+      {
+        "value": "INTL",
+        "label": "Other / international"
+      }
+    ],
+    "proposal": {
+      "title": "Get a tailored proposal",
+      "intro": "Three short steps. Your proposal is prepared by one of our advisors, not generated automatically."
+    },
+    "consultation": {
+      "title": "Book a consultation",
+      "intro": "A complimentary strategy session with one of our advisors. Tell us when suits you."
+    },
+    "documents": {
+      "title": "Request company documents",
+      "intro": "For prospective clients carrying out due diligence."
+    }
+  },
+  "consent": {
+    "title": "Analytics cookies",
+    "text": "We would like to use analytics to understand how this website is used. They stay off unless you accept.",
+    "accept": "Accept analytics",
+    "reject": "Reject",
+    "policy": "Cookie policy"
+  },
+  "blogHub": {
+    "header": {
+      "badge": "THE AVERA BLOG",
+      "title": "Building a team in Egypt, explained.",
+      "description": "Plain guidance for companies hiring in Egypt: who is responsible for what, what to ask a provider, and what the law means for employers."
+    },
+    "categories": [
+      {
+        "id": "all",
+        "label": "ALL"
+      },
+      {
+        "id": "hiring-in-egypt",
+        "label": "HIRING IN EGYPT"
+      },
+      {
+        "id": "employer-of-record",
+        "label": "EMPLOYER OF RECORD"
+      },
+      {
+        "id": "payroll-and-hr",
+        "label": "PAYROLL AND HR"
+      },
+      {
+        "id": "about-avera",
+        "label": "ABOUT AVERA"
+      }
+    ],
+    "featured_article": {
+      "number": "01",
+      "slug": "eor-egypt",
+      "category": "EMPLOYER OF RECORD",
+      "title": "What is an Employer of Record in Egypt?",
+      "excerpt": "A company registered in Egypt becomes the legal employer of your staff there, while you direct their daily work.",
+      "cta_text": "READ THE ARTICLE",
+      "cta_link": "/en/blog/eor-egypt"
+    },
+    "card_listings": [
+      {
+        "number": "02",
+        "slug": "hiring-in-egypt",
+        "category": "HIRING IN EGYPT",
+        "title": "Hiring in Egypt: how the journey starts",
+        "excerpt": "Building a team in Egypt takes five stages. Each stage has a clear owner.",
+        "cta_text": "READ",
+        "cta_link": "/en/blog/hiring-in-egypt"
+      },
+      {
+        "number": "03",
+        "slug": "egypt-labor-law-2025",
+        "category": "PAYROLL AND HR",
+        "title": "Egypt's new Labor Law: what employers should know",
+        "excerpt": "Labor Law No. 14 of 2025 took effect on 1 September 2025. Contracts drafted before it need review.",
+        "cta_text": "READ",
+        "cta_link": "/en/blog/egypt-labor-law-2025"
+      },
+      {
+        "number": "04",
+        "slug": "choosing-eor-egypt",
+        "category": "EMPLOYER OF RECORD",
+        "title": "Six questions to ask before choosing an EOR in Egypt",
+        "excerpt": "What you ask before signing decides what happens after.",
+        "cta_text": "READ",
+        "cta_link": "/en/blog/choosing-eor-egypt"
+      },
+      {
+        "number": "05",
+        "slug": "eor-contract-data-benefits",
+        "category": "EMPLOYER OF RECORD",
+        "title": "Contract, data and benefits questions before you sign",
+        "excerpt": "Six questions on the terms of the contract itself and on your employees’ data.",
+        "cta_text": "READ",
+        "cta_link": "/en/blog/eor-contract-data-benefits"
+      },
+      {
+        "number": "06",
+        "slug": "inside-avera-how-we-work",
+        "category": "ABOUT AVERA",
+        "title": "Inside AVERA: how we work",
+        "excerpt": "Four principles: written responsibility, clear steps, two languages, and confidentiality.",
+        "cta_text": "READ",
+        "cta_link": "/en/blog/inside-avera-how-we-work"
+      }
+    ],
+    "cta": {
+      "tagline": "YOUR TEAM IN EGYPT. OUR RESPONSIBILITY.",
+      "headline": "Thinking of building a team in Egypt?",
+      "button_text": "GET YOUR PROPOSAL",
+      "button_link": "/en/contact",
+      "footer_contact": "AVERA ELITE · BUSINESS SOLUTIONS | 74 El Nozha St., Heliopolis, Cairo, Egypt · info@averaelite.com"
+    }
+  },
+  "blogArticles": {
+    "eor-egypt": {
+      "title": "What is an Employer of Record in Egypt, and when does it suit your company?",
+      "short_title": "What is an Employer of Record in Egypt?",
+      "category": "EMPLOYER OF RECORD",
+      "breadcrumbs": [
+        "BLOG",
+        "EMPLOYER OF RECORD"
+      ],
+      "subtitle": "AVERA ELITE · BUSINESS SOLUTIONS",
+      "table_of_contents": [
+        "What does an EOR do?",
+        "Who is responsible for what?",
+        "When does an EOR fit?",
+        "Questions to ask any provider"
+      ],
+      "in_brief": [
+        "An Employer of Record (EOR) is a company registered in Egypt that becomes the legal employer of your staff there, while you direct their daily work.",
+        "It suits a company with no Egyptian entity that wants to start a team without setting one up.",
+        "Before signing, ask: whose name is on the contracts and invoices, and who is responsible if something goes wrong?"
+      ],
+      "sections": [
+        {
+          "id": "what-does-an-eor-do",
+          "header": "What does an EOR do?",
+          "content_text": "Under an EOR model, the employee is legally employed by the registered company in Egypt. That company signs the employment contract, runs payroll and registers the employee for social insurance. Your company directs the work and sets the goals. This is the model AVERA offers to Gulf and international companies building a team in Egypt.",
+          "content_html": "<p>Under an EOR model, the employee is legally employed by the registered company in Egypt. That company signs the employment contract, runs payroll and registers the employee for social insurance. Your company directs the work and sets the goals. This is the model AVERA offers to Gulf and international companies building a team in Egypt.</p>"
+        },
+        {
+          "id": "who-is-responsible-for-what",
+          "header": "Who is responsible for what?",
+          "content_text": "A clear division of responsibilities ensures smooth daily operations between AVERA and your company.",
+          "content_html": "<p>A clear division of responsibilities ensures smooth daily operations between AVERA and your company.</p>",
+          "table": {
+            "headers": [
+              "ITEM",
+              "RESPONSIBLE"
+            ],
+            "rows": [
+              [
+                "Employment contract and employer obligations",
+                "AVERA"
+              ],
+              [
+                "Payroll, statutory entitlements and insurance",
+                "AVERA"
+              ],
+              [
+                "Invoices and the contract with your company",
+                "AVERA"
+              ],
+              [
+                "Day-to-day direction and performance",
+                "Your company"
+              ],
+              [
+                "Defining tasks and goals",
+                "Your company"
+              ]
+            ],
+            "table_html": "<table><thead><tr><th>ITEM</th><th>RESPONSIBLE</th></tr></thead><tbody><tr><td>Employment contract and employer obligations</td><td>AVERA</td></tr><tr><td>Payroll, statutory entitlements and insurance</td><td>AVERA</td></tr><tr><td>Invoices and the contract with your company</td><td>AVERA</td></tr><tr><td>Day-to-day direction and performance</td><td>Your company</td></tr><tr><td>Defining tasks and goals</td><td>Your company</td></tr></tbody></table>"
+          }
+        },
+        {
+          "id": "when-does-an-eor-fit",
+          "header": "When does an EOR fit?",
+          "bullets": [
+            "You have no entity in Egypt and want to start with a small or mid-sized team.",
+            "You are testing the market before committing to a permanent entity.",
+            "You prefer one party to handle the legal and payroll side of employment."
+          ],
+          "content_text": "When might your own entity fit better? When you plan large, permanent operations in Egypt. That decision should rest on specialist legal and tax advice.",
+          "content_html": "<ul><li>You have no entity in Egypt and want to start with a small or mid-sized team.</li><li>You are testing the market before committing to a permanent entity.</li><li>You prefer one party to handle the legal and payroll side of employment.</li></ul><p>When might your own entity fit better? When you plan large, permanent operations in Egypt. That decision should rest on specialist legal and tax advice.</p>"
+        },
+        {
+          "id": "questions-to-ask-any-provider",
+          "header": "Questions to ask any provider",
+          "numbered_list": [
+            "Whose name is on the contract with your company and with the employee, and on the invoices?",
+            "What happens if there is a payroll or registration error, and who answers?"
+          ],
+          "content_text": "1. Whose name is on the contract with your company and with the employee, and on the invoices?\n2. What happens if there is a payroll or registration error, and who answers?",
+          "content_html": "<ol><li>Whose name is on the contract with your company and with the employee, and on the invoices?</li><li>What happens if there is a payroll or registration error, and who answers?</li></ol>"
+        }
+      ],
+      "guide_box": {
+        "text": "The full list of provider questions, with a ready-to-use evaluation template, is in the guide \"Build your team in Egypt 2027\".",
+        "button_text": "DOWNLOAD THE GUIDE FREE",
+        "button_link": "/en/guide-download"
+      },
+      "disclaimer": "This article is general information, not legal advice.",
+      "sources": "EY: Egypt Labor Law No. 14 of 2025 · Andersen Egypt",
+      "keep_reading": [
+        {
+          "category": "HIRING IN EGYPT",
+          "title": "Hiring in Egypt: how the journey starts",
+          "slug": "hiring-in-egypt"
+        },
+        {
+          "category": "PAYROLL AND HR",
+          "title": "Egypt’s new Labor Law: what employers should know",
+          "slug": "egypt-labor-law-2025"
+        },
+        {
+          "category": "EMPLOYER OF RECORD",
+          "title": "Six questions to ask before choosing an EOR in Egypt",
+          "slug": "choosing-eor-egypt"
+        }
+      ],
+      "cta": {
+        "tagline": "YOUR TEAM IN EGYPT. OUR RESPONSIBILITY.",
+        "headline": "Thinking of building a team in Egypt?",
+        "button_text": "GET YOUR PROPOSAL",
+        "button_link": "/en/contact"
+      }
+    },
+    "hiring-in-egypt": {
+      "title": "Hiring in Egypt: how the journey starts and who handles each stage",
+      "short_title": "Hiring in Egypt: how the journey starts",
+      "category": "HIRING IN EGYPT",
+      "breadcrumbs": [
+        "BLOG",
+        "HIRING IN EGYPT"
+      ],
+      "subtitle": "AVERA ELITE · BUSINESS SOLUTIONS",
+      "table_of_contents": [
+        "Tips for an easier start"
+      ],
+      "in_brief": [
+        "Building a team in Egypt takes five stages. Each stage has a clear owner, and what is asked of your company at each stage is limited."
+      ],
+      "sections": [
+        {
+          "id": "five-stages-of-hiring",
+          "header": "The Five Stages of Hiring in Egypt",
+          "stages": [
+            {
+              "number": 1,
+              "name": "Consultation and role definition",
+              "description": "We learn your activity, team size, the tasks of each role, and what fits you: hiring only, or formal employment through an EOR."
+            },
+            {
+              "number": 2,
+              "name": "Proposal and contract",
+              "description": "You receive a written proposal setting out scope and responsibilities, then contract with AVERA."
+            },
+            {
+              "number": 3,
+              "name": "Search and shortlisting",
+              "description": "We search for candidates, assess them and give you a short list. You run the interviews and decide."
+            },
+            {
+              "number": 4,
+              "name": "Offer and appointment",
+              "description": "AVERA prepares the employment contract as the employer of record and registers the employee."
+            },
+            {
+              "number": 5,
+              "name": "Monthly operations",
+              "description": "Payroll, insurance and monthly reports, with one point of contact for any query."
+            }
+          ],
+          "content_text": "1. Consultation and role definition. We learn your activity, team size, the tasks of each role, and what fits you: hiring only, or formal employment through an EOR.\n2. Proposal and contract. You receive a written proposal setting out scope and responsibilities, then contract with AVERA.\n3. Search and shortlisting. We search for candidates, assess them and give you a short list. You run the interviews and decide.\n4. Offer and appointment. AVERA prepares the employment contract as the employer of record and registers the employee.\n5. Monthly operations. Payroll, insurance and monthly reports, with one point of contact for any query.",
+          "content_html": "<ol><li><strong>Consultation and role definition.</strong> We learn your activity, team size, the tasks of each role, and what fits you: hiring only, or formal employment through an EOR.</li><li><strong>Proposal and contract.</strong> You receive a written proposal setting out scope and responsibilities, then contract with AVERA.</li><li><strong>Search and shortlisting.</strong> We search for candidates, assess them and give you a short list. You run the interviews and decide.</li><li><strong>Offer and appointment.</strong> AVERA prepares the employment contract as the employer of record and registers the employee.</li><li><strong>Monthly operations.</strong> Payroll, insurance and monthly reports, with one point of contact for any query.</li></ol>"
+        },
+        {
+          "id": "tips-for-an-easier-start",
+          "header": "Tips for an easier start",
+          "content_text": "Write the role's tasks in short sentences before you start; it shortens the search.",
+          "content_html": "<p>Write the role's tasks in short sentences before you start; it shortens the search.</p>"
+        }
+      ],
+      "guide_box": {
+        "text": "Who does what at each stage, and a week-by-week plan for the first 90 days, are in the guide \"Build your team in Egypt 2027\".",
+        "button_text": "DOWNLOAD THE GUIDE FREE",
+        "button_link": "/en/guide-download"
+      },
+      "disclaimer": "General information, not legal advice.",
+      "sources": "",
+      "keep_reading": [
+        {
+          "category": "PAYROLL AND HR",
+          "title": "Egypt’s new Labor Law: what employers should know",
+          "slug": "egypt-labor-law-2025"
+        },
+        {
+          "category": "EMPLOYER OF RECORD",
+          "title": "Six questions to ask before choosing an EOR in Egypt",
+          "slug": "choosing-eor-egypt"
+        },
+        {
+          "category": "EMPLOYER OF RECORD",
+          "title": "Contract, data and benefits questions before you sign",
+          "slug": "eor-contract-data-benefits"
+        }
+      ],
+      "cta": {
+        "tagline": "YOUR TEAM IN EGYPT. OUR RESPONSIBILITY.",
+        "headline": "Thinking of building a team in Egypt?",
+        "button_text": "GET YOUR PROPOSAL",
+        "button_link": "/en/contact"
+      }
+    },
+    "egypt-labor-law-2025": {
+      "title": "Egypt's new Labor Law: what employers should know",
+      "short_title": "Egypt's new Labor Law: what employers should know",
+      "category": "PAYROLL AND HR",
+      "breadcrumbs": [
+        "BLOG",
+        "PAYROLL AND HR"
+      ],
+      "subtitle": "AVERA ELITE · BUSINESS SOLUTIONS",
+      "table_of_contents": [
+        "Points legal commentators list (general awareness only)",
+        "What to do now"
+      ],
+      "in_brief": [
+        "Labor Law No. 14 of 2025 took effect on 1 September 2025, replacing Law No. 12 of 2003 (EY).",
+        "Contracts drafted before it need review.",
+        "Your obligations differ by model: your own entity or an EOR."
+      ],
+      "sections": [
+        {
+          "id": "points-legal-commentators-list",
+          "header": "Points legal commentators list (general awareness only)",
+          "content_text": "Key points highlighted by legal analysts regarding Egypt's new Labor Law No. 14 of 2025.",
+          "content_html": "<p>Key points highlighted by legal analysts regarding Egypt's new Labor Law No. 14 of 2025.</p>",
+          "table": {
+            "headers": [
+              "POINT",
+              "WHAT THE SOURCES SAY",
+              "SOURCE"
+            ],
+            "rows": [
+              [
+                "Probation",
+                "Capped at three months, and not repeatable with the same employer",
+                "Law-firm summary"
+              ],
+              [
+                "Contract duration",
+                "Contracts are presumed open-ended unless justified otherwise",
+                "Andersen"
+              ],
+              [
+                "Pre-signed resignation forms",
+                "Not valid as a basis for ending employment",
+                "Andersen"
+              ],
+              [
+                "Dismissal and termination",
+                "The law distinguishes \"dismissal\" (requires a court ruling) from lawful termination for legitimate causes",
+                "Andersen"
+              ],
+              [
+                "Contract copies",
+                "Four counterparts, one deposited with the Ministry of Manpower",
+                "Lexology"
+              ],
+              [
+                "Labor courts",
+                "Specialised labor courts from 1 October 2025",
+                "EY"
+              ]
+            ],
+            "table_html": "<table><thead><tr><th>POINT</th><th>WHAT THE SOURCES SAY</th><th>SOURCE</th></tr></thead><tbody><tr><td>Probation</td><td>Capped at three months, and not repeatable with the same employer</td><td>Law-firm summary</td></tr><tr><td>Contract duration</td><td>Contracts are presumed open-ended unless justified otherwise</td><td>Andersen</td></tr><tr><td>Pre-signed resignation forms</td><td>Not valid as a basis for ending employment</td><td>Andersen</td></tr><tr><td>Dismissal and termination</td><td>The law distinguishes \"dismissal\" (requires a court ruling) from lawful termination for legitimate causes</td><td>Andersen</td></tr><tr><td>Contract copies</td><td>Four counterparts, one deposited with the Ministry of Manpower</td><td>Lexology</td></tr><tr><td>Labor courts</td><td>Specialised labor courts from 1 October 2025</td><td>EY</td></tr></tbody></table>"
+          }
+        },
+        {
+          "id": "what-to-do-now",
+          "header": "What to do now",
+          "numbered_list": [
+            "Review your current employment contracts with your legal adviser."
+          ],
+          "content_text": "1. Review your current employment contracts with your legal adviser.",
+          "content_html": "<ol><li>Review your current employment contracts with your legal adviser.</li></ol>"
+        }
+      ],
+      "guide_box": {
+        "text": "The full review checklist, and what changes in 2027, are in the guide \"Build your team in Egypt 2027\".",
+        "button_text": "DOWNLOAD THE GUIDE FREE",
+        "button_link": "/en/guide-download"
+      },
+      "disclaimer": "General information, not legal advice. Rules may change.",
+      "sources": "EY · Andersen · Lexology",
+      "keep_reading": [
+        {
+          "category": "EMPLOYER OF RECORD",
+          "title": "Six questions to ask before choosing an EOR in Egypt",
+          "slug": "choosing-eor-egypt"
+        },
+        {
+          "category": "EMPLOYER OF RECORD",
+          "title": "Contract, data and benefits questions before you sign",
+          "slug": "eor-contract-data-benefits"
+        },
+        {
+          "category": "ABOUT AVERA",
+          "title": "Inside AVERA: how we work",
+          "slug": "inside-avera-how-we-work"
+        }
+      ],
+      "cta": {
+        "tagline": "YOUR TEAM IN EGYPT. OUR RESPONSIBILITY.",
+        "headline": "Thinking of building a team in Egypt?",
+        "button_text": "GET YOUR PROPOSAL",
+        "button_link": "/en/contact"
+      }
+    },
+    "choosing-eor-egypt": {
+      "title": "Six questions to ask before choosing an EOR provider in Egypt",
+      "short_title": "Six questions to ask before choosing an EOR in Egypt",
+      "category": "EMPLOYER OF RECORD",
+      "breadcrumbs": [
+        "BLOG",
+        "EMPLOYER OF RECORD"
+      ],
+      "subtitle": "AVERA ELITE · BUSINESS SOLUTIONS",
+      "table_of_contents": [
+        "What we commit to at AVERA"
+      ],
+      "in_brief": [
+        "What you ask before signing decides what happens after. Here are six topics where you should ask for a written answer."
+      ],
+      "sections": [
+        {
+          "id": "key-evaluation-topics",
+          "header": "Topics to Evaluate Before Choosing an EOR Provider",
+          "content_text": "A structured comparison of critical risks, warning signs, and the exact questions to ask potential EOR providers.",
+          "content_html": "<p>A structured comparison of critical risks, warning signs, and the exact questions to ask potential EOR providers.</p>",
+          "table": {
+            "headers": [
+              "TOPIC",
+              "THE PROBLEM",
+              "WATCH FOR",
+              "ASK"
+            ],
+            "rows": [
+              [
+                "1. Who is responsible?",
+                "Unclear who answers when something goes wrong",
+                "Contracts and invoices under several names; hand-offs between parties",
+                "Whose name is on the contract and invoice? Who answers to us?"
+              ],
+              [
+                "2. Contracts that follow the law",
+                "An old template may conflict with the new Labor Law",
+                "Templates not updated since September 2025",
+                "When were the contract templates updated? How do you track changes?"
+              ],
+              [
+                "3. Invoice clarity",
+                "A low monthly price grows with add-ons",
+                "Items not shown in the proposal",
+                "Ask for a sample invoice with every item, including statutory contributions"
+              ]
+            ],
+            "table_html": "<table><thead><tr><th>TOPIC</th><th>THE PROBLEM</th><th>WATCH FOR</th><th>ASK</th></tr></thead><tbody><tr><td>1. Who is responsible?</td><td>Unclear who answers when something goes wrong</td><td>Contracts and invoices under several names; hand-offs between parties</td><td>Whose name is on the contract and invoice? Who answers to us?</td></tr><tr><td>2. Contracts that follow the law</td><td>An old template may conflict with the new Labor Law</td><td>Templates not updated since September 2025</td><td>When were the contract templates updated? How do you track changes?</td></tr><tr><td>3. Invoice clarity</td><td>A low monthly price grows with add-ons</td><td>Items not shown in the proposal</td><td>Ask for a sample invoice with every item, including statutory contributions</td></tr></tbody></table>"
+          }
+        },
+        {
+          "id": "what-we-commit-to-at-avera",
+          "header": "What we commit to at AVERA",
+          "bullets": [
+            "Contracts and invoices are in AVERA's name, so AVERA is the party that answers to you.",
+            "We have a written service-level agreement.",
+            "Communication and reports in Arabic and English."
+          ],
+          "content_text": "Contracts and invoices are in AVERA's name, so AVERA is the party that answers to you.\nWe have a written service-level agreement.\nCommunication and reports in Arabic and English.",
+          "content_html": "<ul><li>Contracts and invoices are in AVERA's name, so AVERA is the party that answers to you.</li><li>We have a written service-level agreement.</li><li>Communication and reports in Arabic and English.</li></ul>"
+        }
+      ],
+      "guide_box": {
+        "text": "The other three questions, with a provider evaluation template, are in the guide \"Build your team in Egypt 2027\".",
+        "button_text": "DOWNLOAD THE GUIDE FREE",
+        "button_link": "/en/guide-download"
+      },
+      "disclaimer": "General information, not legal advice.",
+      "sources": "",
+      "keep_reading": [
+        {
+          "category": "EMPLOYER OF RECORD",
+          "title": "Contract, data and benefits questions before you sign",
+          "slug": "eor-contract-data-benefits"
+        },
+        {
+          "category": "ABOUT AVERA",
+          "title": "Inside AVERA: how we work",
+          "slug": "inside-avera-how-we-work"
+        },
+        {
+          "category": "EMPLOYER OF RECORD",
+          "title": "What is an Employer of Record in Egypt?",
+          "slug": "eor-egypt"
+        }
+      ],
+      "cta": {
+        "tagline": "YOUR TEAM IN EGYPT. OUR RESPONSIBILITY.",
+        "headline": "Thinking of building a team in Egypt?",
+        "button_text": "GET YOUR PROPOSAL",
+        "button_link": "/en/contact"
+      }
+    },
+    "eor-contract-data-benefits": {
+      "title": "Questions on the contract, data and benefits before you sign",
+      "short_title": "Contract, data and benefits questions before you sign",
+      "category": "EMPLOYER OF RECORD",
+      "breadcrumbs": [
+        "BLOG",
+        "EMPLOYER OF RECORD"
+      ],
+      "subtitle": "AVERA ELITE · BUSINESS SOLUTIONS",
+      "table_of_contents": [
+        "What we commit to at AVERA"
+      ],
+      "in_brief": [
+        "After the questions on responsibility and invoices come six on the terms of the contract itself and on your employees' data."
+      ],
+      "sections": [
+        {
+          "id": "contract-data-benefits-table",
+          "header": "Contract, Data and Benefits Checklist",
+          "content_text": "Detailed examination of contract terms, data protection, insurance, employment relations, IP, and payment currencies.",
+          "content_html": "<p>Detailed examination of contract terms, data protection, insurance, employment relations, IP, and payment currencies.</p>",
+          "table": {
+            "headers": [
+              "TOPIC",
+              "THE PROBLEM",
+              "WATCH FOR",
+              "ASK"
+            ],
+            "rows": [
+              [
+                "1. Contract term",
+                "A longer commitment than you expect",
+                "Minimum term or headcount, automatic renewal",
+                "What is the term? Is there a minimum? How is it renewed?"
+              ],
+              [
+                "2. Employee data",
+                "You do not know where it is kept or who can reach it",
+                "Transfers outside Egypt with no clear procedure",
+                "Where is data kept, who can access it, and what happens to it at exit?"
+              ],
+              [
+                "3. Insurance and benefits",
+                "What you assume is included may not be",
+                "Benefits described in general terms",
+                "What exactly do insurance and benefits cover, and what do they not?"
+              ],
+              [
+                "4. Daily employment matters",
+                "Unclear who handles leave and disciplinary issues",
+                "Responsibilities not written down",
+                "Who handles leave, disciplinary matters and warnings, and what is our role?"
+              ],
+              [
+                "5. IP and confidentiality",
+                "Unclear who owns what an employee creates",
+                "Confidentiality clauses that do not cover your company",
+                "Do the contract clauses give your company the IP and confidentiality rights?"
+              ],
+              [
+                "6. Currency and payment",
+                "An invoice that moves with the exchange rate",
+                "Invoice currency and payment date not stated",
+                "In which currency is the invoice issued, and when is payment due?"
+              ]
+            ],
+            "table_html": "<table><thead><tr><th>TOPIC</th><th>THE PROBLEM</th><th>WATCH FOR</th><th>ASK</th></tr></thead><tbody><tr><td>1. Contract term</td><td>A longer commitment than you expect</td><td>Minimum term or headcount, automatic renewal</td><td>What is the term? Is there a minimum? How is it renewed?</td></tr><tr><td>2. Employee data</td><td>You do not know where it is kept or who can reach it</td><td>Transfers outside Egypt with no clear procedure</td><td>Where is data kept, who can access it, and what happens to it at exit?</td></tr><tr><td>3. Insurance and benefits</td><td>What you assume is included may not be</td><td>Benefits described in general terms</td><td>What exactly do insurance and benefits cover, and what do they not?</td></tr><tr><td>4. Daily employment matters</td><td>Unclear who handles leave and disciplinary issues</td><td>Responsibilities not written down</td><td>Who handles leave, disciplinary matters and warnings, and what is our role?</td></tr><tr><td>5. IP and confidentiality</td><td>Unclear who owns what an employee creates</td><td>Confidentiality clauses that do not cover your company</td><td>Do the contract clauses give your company the IP and confidentiality rights?</td></tr><tr><td>6. Currency and payment</td><td>An invoice that moves with the exchange rate</td><td>Invoice currency and payment date not stated</td><td>In which currency is the invoice issued, and when is payment due?</td></tr></tbody></table>"
+          }
+        },
+        {
+          "id": "what-we-commit-to-at-avera",
+          "header": "What we commit to at AVERA",
+          "content_text": "Contracts and invoices are in AVERA's name, and we have a written service-level agreement.",
+          "content_html": "<p>Contracts and invoices are in AVERA's name, and we have a written service-level agreement.</p>"
+        }
+      ],
+      "guide_box": null,
+      "disclaimer": "General information, not legal advice.",
+      "sources": "",
+      "keep_reading": [
+        {
+          "category": "ABOUT AVERA",
+          "title": "Inside AVERA: how we work",
+          "slug": "inside-avera-how-we-work"
+        },
+        {
+          "category": "EMPLOYER OF RECORD",
+          "title": "What is an Employer of Record in Egypt?",
+          "slug": "eor-egypt"
+        },
+        {
+          "category": "HIRING IN EGYPT",
+          "title": "Hiring in Egypt: how the journey starts",
+          "slug": "hiring-in-egypt"
+        }
+      ],
+      "cta": {
+        "tagline": "YOUR TEAM IN EGYPT. OUR RESPONSIBILITY.",
+        "headline": "Thinking of building a team in Egypt?",
+        "button_text": "GET YOUR PROPOSAL",
+        "button_link": "/en/contact"
+      }
+    },
+    "inside-avera-how-we-work": {
+      "title": "Inside AVERA: how we work with companies building teams in Egypt",
+      "short_title": "Inside AVERA: how we work",
+      "category": "ABOUT AVERA",
+      "breadcrumbs": [
+        "BLOG",
+        "ABOUT AVERA"
+      ],
+      "subtitle": "AVERA ELITE · BUSINESS SOLUTIONS",
+      "table_of_contents": [
+        "IN BRIEF"
+      ],
+      "in_brief": [
+        "We build our work on four principles: written responsibility, clear steps, two languages, and confidentiality you can trust."
+      ],
+      "sections": [
+        {
+          "id": "four-principles",
+          "header": "Four Principles of Working with AVERA",
+          "principles": [
+            {
+              "number": 1,
+              "name": "Written responsibility",
+              "description": "The contracts with your company and with your employees, and the invoices, are in AVERA's name, and a written service-level agreement sets out what we commit to. You do not have to hunt for who answers."
+            },
+            {
+              "number": 2,
+              "name": "Clear steps",
+              "description": "We set out what we handle and what your company handles at each stage, from consultation to monthly operations."
+            },
+            {
+              "number": 3,
+              "name": "Two languages",
+              "description": "We communicate in Arabic or English, whichever suits your company."
+            },
+            {
+              "number": 4,
+              "name": "Confidentiality",
+              "description": "We do not name our clients or their employees without their permission, and we protect your data."
+            }
+          ],
+          "content_text": "1. Written responsibility. The contracts with your company and with your employees, and the invoices, are in AVERA's name, and a written service-level agreement sets out what we commit to. You do not have to hunt for who answers.\n2. Clear steps. We set out what we handle and what your company handles at each stage, from consultation to monthly operations.\n3. Two languages. We communicate in Arabic or English, whichever suits your company.\n4. Confidentiality. We do not name our clients or their employees without their permission, and we protect your data.",
+          "content_html": "<ol><li><strong>Written responsibility.</strong> The contracts with your company and with your employees, and the invoices, are in AVERA's name, and a written service-level agreement sets out what we commit to. You do not have to hunt for who answers.</li><li><strong>Clear steps.</strong> We set out what we handle and what your company handles at each stage, from consultation to monthly operations.</li><li><strong>Two languages.</strong> We communicate in Arabic or English, whichever suits your company.</li><li><strong>Confidentiality.</strong> We do not name our clients or their employees without their permission, and we protect your data.</li></ol>"
+        },
+        {
+          "id": "choosing-a-package",
+          "header": "Choosing a package",
+          "content_text": "We offer our service in three packages: Select, Premier and Signature.",
+          "content_html": "<p>We offer our service in three packages: Select, Premier and Signature.</p>"
+        }
+      ],
+      "guide_box": null,
+      "disclaimer": "General information, not legal advice.",
+      "sources": "",
+      "keep_reading": [
+        {
+          "category": "EMPLOYER OF RECORD",
+          "title": "What is an Employer of Record in Egypt?",
+          "slug": "eor-egypt"
+        },
+        {
+          "category": "HIRING IN EGYPT",
+          "title": "Hiring in Egypt: how the journey starts",
+          "slug": "hiring-in-egypt"
+        },
+        {
+          "category": "PAYROLL AND HR",
+          "title": "Egypt’s new Labor Law: what employers should know",
+          "slug": "egypt-labor-law-2025"
+        }
+      ],
+      "cta": {
+        "tagline": "YOUR TEAM IN EGYPT. OUR RESPONSIBILITY.",
+        "headline": "Thinking of building a team in Egypt?",
+        "button_text": "GET YOUR PROPOSAL",
+        "button_link": "/en/contact"
+      }
+    }
+  }
+}

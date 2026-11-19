@@ -1,0 +1,148 @@
+@let art = article();
+@let h = hub();
+
+<app-breadcrumbs [trail]="trail()" />
+
+<header class="article-hero">
+  <div class="container">
+    <div class="article-hero__breadcrumbs">
+      <a [routerLink]="ctx.L('/blog')">{{ h.header.badge }}</a>
+      <span>/</span>
+      <span>{{ art.category }}</span>
+    </div>
+    <h1 class="article-hero__title">{{ art.title }}</h1>
+    @if (art.subtitle) {
+      <p class="article-hero__sub">{{ art.subtitle }}</p>
+    }
+  </div>
+</header>
+
+<div class="container">
+  <div class="article-layout">
+    <!-- Sidebar Table of Contents -->
+    <aside class="article-sidebar" [attr.aria-label]="ctx.lang() === 'ar' ? 'في هذا المقال' : 'In this article'">
+      <h2 class="article-sidebar__heading">
+        {{ ctx.lang() === 'ar' ? 'في هذا المقال' : 'IN THIS ARTICLE' }}
+      </h2>
+      <nav class="article-sidebar__nav">
+        @for (sec of art.sections; track sec.id) {
+          <a class="article-sidebar__link" [routerLink]="[]" [fragment]="sec.id">
+            {{ sec.header }}
+          </a>
+        }
+      </nav>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="article-main">
+      <!-- In Brief Box -->
+      @if (art.in_brief && art.in_brief.length > 0) {
+        <section class="in-brief-box" [attr.aria-label]="ctx.lang() === 'ar' ? 'باختصار' : 'In brief'">
+          <h2 class="in-brief-box__heading">
+            {{ ctx.lang() === 'ar' ? 'باختصار' : 'IN BRIEF' }}
+          </h2>
+          <ul class="in-brief-box__list">
+            @for (bullet of art.in_brief; track bullet) {
+              <li>{{ bullet }}</li>
+            }
+          </ul>
+        </section>
+      }
+
+      <!-- Article Sections -->
+      @for (sec of art.sections; track sec.id) {
+        <section [id]="sec.id" class="article-section">
+          <h2 class="article-section__header">{{ sec.header }}</h2>
+
+          @if (sec.content_html) {
+            <div class="article-prose" [innerHTML]="sec.content_html"></div>
+          } @else if (sec.content_text) {
+            <div class="article-prose">
+              <p>{{ sec.content_text }}</p>
+            </div>
+          }
+
+          @if (sec.table) {
+            <div class="article-table-wrap">
+              <table class="article-table">
+                <thead>
+                  <tr>
+                    @for (th of sec.table.headers; track th) {
+                      <th scope="col">{{ th }}</th>
+                    }
+                  </tr>
+                </thead>
+                <tbody>
+                  @for (row of sec.table.rows; track row[0]) {
+                    <tr>
+                      @for (cell of row; track $index) {
+                        <td>{{ cell }}</td>
+                      }
+                    </tr>
+                  }
+                </tbody>
+              </table>
+            </div>
+          }
+        </section>
+      }
+
+      <!-- Guide Download Callout -->
+      @if (art.guide_box) {
+        <aside class="guide-callout" aria-label="Download guide">
+          <p class="guide-callout__text">{{ art.guide_box.text }}</p>
+          <a [routerLink]="ctx.L('/guide')" class="guide-callout__btn">
+            <span>{{ art.guide_box.button_text }}</span>
+            <span aria-hidden="true">&rarr;</span>
+          </a>
+        </aside>
+      }
+
+      <!-- Meta Notes: Disclaimer & Sources -->
+      @if (art.disclaimer || art.sources) {
+        <footer class="article-meta-notes">
+          @if (art.disclaimer) {
+            <p class="article-disclaimer">{{ art.disclaimer }}</p>
+          }
+          @if (art.sources) {
+            <p class="article-sources">{{ art.sources }}</p>
+          }
+        </footer>
+      }
+    </main>
+  </div>
+</div>
+
+<!-- Keep Reading Section -->
+@if (art.keep_reading && art.keep_reading.length > 0) {
+  <section class="keep-reading-section">
+    <div class="container">
+      <h2 class="keep-reading__header">
+        {{ ctx.lang() === 'ar' ? 'تابعوا القراءة' : 'KEEP READING' }}
+      </h2>
+      <div class="keep-reading-grid">
+        @for (kr of art.keep_reading; track kr.slug) {
+          <article class="keep-reading-card">
+            <div>
+              <span class="keep-reading-card__cat">{{ kr.category }}</span>
+              <h3 class="keep-reading-card__title">
+                <a [routerLink]="ctx.L('/blog/' + kr.slug)">{{ kr.title }}</a>
+              </h3>
+            </div>
+          </article>
+        }
+      </div>
+    </div>
+  </section>
+}
+
+<!-- Closing CTA Band -->
+<section class="article-cta">
+  <div class="container">
+    <p class="article-cta__tagline">{{ art.cta.tagline }}</p>
+    <h2 class="article-cta__headline">{{ art.cta.headline }}</h2>
+    <a [routerLink]="ctx.L(art.cta.button_link || '/contact')" class="article-cta__btn">
+      {{ art.cta.button_text }}
+    </a>
+  </div>
+</section>

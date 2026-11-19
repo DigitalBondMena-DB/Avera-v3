@@ -1,0 +1,88 @@
+@let h = hub();
+
+<app-breadcrumbs [trail]="trail()" />
+
+<header class="blog-hero">
+  <div class="container">
+    <span class="blog-hero__badge">{{ h.header.badge }}</span>
+    <h1 class="blog-hero__title">{{ h.header.title }}</h1>
+    <p class="blog-hero__lead">{{ h.header.description }}</p>
+  </div>
+</header>
+
+<nav class="blog-filter" [attr.aria-label]="ctx.lang() === 'ar' ? 'تصنيفات المقالات' : 'Article categories'">
+  <div class="container">
+    <div class="blog-filter__list">
+      @for (cat of categories(); track cat.id) {
+        <button
+          type="button"
+          class="blog-filter__btn"
+          [class.is-active]="activeCategory() === cat.id"
+          (click)="setCategory(cat.id)">
+          {{ cat.label }}
+        </button>
+      }
+    </div>
+  </div>
+</nav>
+
+<main class="container">
+  @if (isFeaturedVisible()) {
+    <section class="blog-featured" aria-label="Featured article">
+      <div class="featured-card">
+        <div class="featured-card__num">{{ featured().number }}</div>
+        <div class="featured-card__body">
+          <div class="featured-card__cat">{{ featured().category }}</div>
+          <h2 class="featured-card__title">
+            <a [routerLink]="ctx.L('/blog/' + featured().slug)">{{ featured().title }}</a>
+          </h2>
+          <p class="featured-card__excerpt">{{ featured().excerpt }}</p>
+          <a [routerLink]="ctx.L('/blog/' + featured().slug)" class="featured-card__btn">
+            <span>{{ featured().cta_text }}</span>
+            <span aria-hidden="true">&rarr;</span>
+          </a>
+        </div>
+      </div>
+    </section>
+  }
+
+  <section class="blog-grid-section" aria-label="Articles list">
+    <div class="blog-grid">
+      @for (card of cards(); track card.slug) {
+        <article class="blog-card">
+          <div>
+            <div class="blog-card__header">
+              <span class="blog-card__num">{{ card.number }}</span>
+              <span class="blog-card__cat">{{ card.category }}</span>
+            </div>
+            <h3 class="blog-card__title">
+              <a [routerLink]="ctx.L('/blog/' + card.slug)">{{ card.title }}</a>
+            </h3>
+            <p class="blog-card__excerpt">{{ card.excerpt }}</p>
+          </div>
+          <div>
+            <a [routerLink]="ctx.L('/blog/' + card.slug)" class="blog-card__cta">
+              <span>{{ card.cta_text }}</span>
+              <span aria-hidden="true">&rarr;</span>
+            </a>
+          </div>
+        </article>
+      }
+    </div>
+  </section>
+</main>
+
+<section class="blog-cta">
+  <div class="container">
+    <p class="blog-cta__tagline">{{ h.cta.tagline }}</p>
+    <h2 class="blog-cta__headline">{{ h.cta.headline }}</h2>
+    <a [routerLink]="ctx.L(h.cta.button_link || '/contact')" class="blog-cta__btn">
+      {{ h.cta.button_text }}
+    </a>
+    @if (h.cta.footer_contact) {
+      <div class="blog-cta__footer">
+        <p>{{ h.cta.footer_contact }}</p>
+      </div>
+    }
+  </div>
+</section>
